@@ -1,1 +1,177 @@
-[{"url":"/event/stage_jeune_2/","name":"Stage Jeunes Paques","startDate":"2021-04-19 22:00:00 +0000 UTC","endDate":"2021-04-23 22:00:00 +0000 UTC","location":"","color":"#8910d6"},{"url":"/event/skybad/","name":"Skybad 12","startDate":"2020-10-31 22:00:00 +0000 UTC","endDate":"2020-11-01 22:00:00 +0000 UTC","location":"","color":"#28b463"},{"url":"/event/reprise-copy/","name":"IFB","startDate":"2020-10-20 08:00:00 +0000 UTC","endDate":"2020-10-25 23:59:59 +0000 UTC","location":"","color":"#d68910"},{"url":"/event/stage_jeune_1/","name":"Stage Jeunes","startDate":"2020-10-19 22:00:00 +0000 UTC","endDate":"2020-10-23 22:00:00 +0000 UTC","location":"","color":"#8910d6"},{"url":"/event/toiurnoi_du_forez/","name":"29 eme tournoi du Forez","startDate":"2020-10-16 22:00:00 +0000 UTC","endDate":"2020-10-17 22:00:00 +0000 UTC","location":"","color":"#28b463"},{"url":"/event/aseemble_genrale/","name":"Assemblée Générale","startDate":"2020-09-10 00:00:00 +0000 UTC","endDate":"2020-09-10 00:00:00 +0000 UTC","location":"","color":"#cb4335"},{"url":"/event/rentr%C3%A9e/","name":"Reprise Adultes","startDate":"2020-09-07 22:00:00 +0000 UTC","endDate":"2020-09-07 22:00:00 +0000 UTC","location":"","color":"#cb4335"},{"url":"/event/repas_benevole/","name":"Repas des bénévoles","startDate":"2020-09-03 22:00:00 +0000 UTC","endDate":"2020-09-03 22:00:00 +0000 UTC","location":"","color":"#cb4335"},{"url":"/event/event2-copy/","name":"Créneau jeu libre","startDate":"2020-02-03 13:25:27 +0000 UTC","endDate":"2020-02-03 13:25:27 +0000 UTC","location":"","color":"#000000"}]
+data = [
+    
+    
+	
+
+    {	"url": "/event/stage_jeune_2/",
+        "name": "Stage Jeunes Paques",
+        "startDate": new Date(2021, 4-1, 19),
+		
+		"endDate": new Date(2021, 4-1, 23),	
+		"location": "",
+		"color":  "#000000" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/skybad/",
+        "name": "Skybad 12",
+        "startDate": new Date(2020, 10-1, 31),
+		
+		"endDate": new Date(2020, 11-1, 1),	
+		"location": "",
+		"color":  "#28b463" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/reprise-copy/",
+        "name": "IFB",
+        "startDate": new Date(2020, 10-1, 20),
+		
+		"endDate": new Date(2020, 10-1, 25),	
+		"location": "",
+		"color":   "#d68910" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/stage_jeune_1/",
+        "name": "Stage Jeunes",
+        "startDate": new Date(2020, 10-1, 19),
+		
+		"endDate": new Date(2020, 10-1, 23),	
+		"location": "",
+		"color":  "#000000" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/toiurnoi_du_forez/",
+        "name": "29 eme tournoi du Forez",
+        "startDate": new Date(2020, 10-1, 16),
+		
+		"endDate": new Date(2020, 10-1, 17),	
+		"location": "",
+		"color":  "#28b463" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/aseemble_genrale/",
+        "name": "Assemblée Générale",
+        "startDate": new Date(2020, 9-1, 10),
+		
+		"endDate": new Date(2020, 9-1, 10),	
+		"location": "",
+		"color":  "#cb4335"	
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/rentr%C3%A9e/",
+        "name": "Reprise Adultes",
+        "startDate": new Date(2020, 9-1, 7),
+		
+		"endDate": new Date(2020, 9-1, 7),	
+		"location": "",
+		"color":  "#cb4335"	
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/repas_benevole/",
+        "name": "Repas des bénévoles",
+        "startDate": new Date(2020, 9-1, 3),
+		
+		"endDate": new Date(2020, 9-1, 3),	
+		"location": "",
+		"color":  "#cb4335"	
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
+    {	"url": "/event/event2-copy/",
+        "name": "Créneau jeu libre",
+        "startDate": new Date(2020, 2-1, 3),
+		
+		
+		
+
+
+
+    }
+    
+]
