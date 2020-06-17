@@ -159,6 +159,10 @@
   </url>
   
   <url>
+    <loc>/jeunes/</loc>
+  </url>
+  
+  <url>
     <loc>/equipe/equipe-1/</loc>
   </url>
   
@@ -200,10 +204,6 @@
   
   <url>
     <loc>/inscription/</loc>
-  </url>
-  
-  <url>
-    <loc>/jeunes/</loc>
   </url>
   
   <url>
