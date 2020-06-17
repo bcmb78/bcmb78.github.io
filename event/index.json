@@ -1,1 +1,9 @@
-[{"title":"IFB","start":"2020-10-20T08:00:00","end":"2020-10-25T23:59:59","allDay":true,"color":"#d68910","url":"/event/reprise-copy/"},{"title":"29 eme tournoi du Forez","start":"2020-10-16T22:00:00","allDay":true,"color":"#28b463","url":"/event/tournoi-sept/"},{"title":"Rentrée","start":"2020-09-06T22:00:00","allDay":true,"color":"#cb4335","url":"/event/rentr%C3%A9e/"},{"title":"Assemblée Générale","start":"2020-09-04T22:00:00","allDay":true,"color":"#cb4335","url":"/event/reprise/"},{"title":"Créneau jeu libre","start":"2020-02-03T13:25:27","allDay":true,"color":"#000000","url":"/event/event2-copy/"}]
+[{"url":"/event/stage_jeune_2/","name":"Stage Jeunes Paques","startDate":"new Date(2021, 4-1, 19)","endDate":" new Date(2021, 4-1, 23)
+		","location":"","color":"#8910d6"},{"url":"/event/skybad/","name":"Skybad 12","startDate":"new Date(2020, 10-1, 31)","endDate":" new Date(2020, 11-1, 1)
+		","location":"","color":"#28b463"},{"url":"/event/reprise-copy/","name":"IFB","startDate":"new Date(2020, 10-1, 20)","endDate":" new Date(2020, 10-1, 25)
+		","location":"","color":"#d68910"},{"url":"/event/stage_jeune_1/","name":"Stage Jeunes","startDate":"new Date(2020, 10-1, 19)","endDate":" new Date(2020, 10-1, 23)
+		","location":"","color":"#8910d6"},{"url":"/event/toiurnoi_du_forez/","name":"29 eme tournoi du Forez","startDate":"new Date(2020, 10-1, 16)","endDate":" new Date(2020, 10-1, 17)
+		","location":"","color":"#28b463"},{"url":"/event/aseemble_genrale/","name":"Assemblée Générale","startDate":"new Date(2020, 9-1, 10)","endDate":" new Date(2020, 9-1, 10)
+		","location":"","color":"#cb4335"},{"url":"/event/rentr%C3%A9e/","name":"Reprise Adultes","startDate":"new Date(2020, 9-1, 7)","endDate":" new Date(2020, 9-1, 7)
+		","location":"","color":"#cb4335"},{"url":"/event/repas_benevole/","name":"Repas des bénévoles","startDate":"new Date(2020, 9-1, 3)","endDate":" new Date(2020, 9-1, 3)
+		","location":"","color":"#cb4335"},{"url":"/event/event2-copy/","name":"Créneau jeu libre","startDate":"new Date(2020, 2-1, 3)"}]
