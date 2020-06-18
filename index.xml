@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bienvenue sur le site du BCMB on Badminton Club Montigny-le-Bretonneux</title>
-    <link>/</link>
+    <link>https://bad-montigny.fr/</link>
     <description>Recent content in Bienvenue sur le site du BCMB on Badminton Club Montigny-le-Bretonneux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 19 Apr 2021 22:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bad-montigny.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stage Jeunes Paques</title>
-      <link>/event/stage_jeune_2/</link>
+      <link>https://bad-montigny.fr/event/stage_jeune_2/</link>
       <pubDate>Mon, 19 Apr 2021 22:00:00 +0000</pubDate>
       
-      <guid>/event/stage_jeune_2/</guid>
+      <guid>https://bad-montigny.fr/event/stage_jeune_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFB</title>
-      <link>/event/reprise-copy/</link>
+      <link>https://bad-montigny.fr/event/reprise-copy/</link>
       <pubDate>Tue, 20 Oct 2020 08:00:00 +0000</pubDate>
       
-      <guid>/event/reprise-copy/</guid>
+      <guid>https://bad-montigny.fr/event/reprise-copy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stage Jeunes</title>
-      <link>/event/stage_jeune_1/</link>
+      <link>https://bad-montigny.fr/event/stage_jeune_1/</link>
       <pubDate>Mon, 19 Oct 2020 22:00:00 +0000</pubDate>
       
-      <guid>/event/stage_jeune_1/</guid>
+      <guid>https://bad-montigny.fr/event/stage_jeune_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>29 eme tournoi du Forez</title>
-      <link>/event/toiurnoi_du_forez/</link>
+      <link>https://bad-montigny.fr/event/toiurnoi_du_forez/</link>
       <pubDate>Fri, 16 Oct 2020 22:00:00 +0000</pubDate>
       
-      <guid>/event/toiurnoi_du_forez/</guid>
+      <guid>https://bad-montigny.fr/event/toiurnoi_du_forez/</guid>
       <description>Les séries poussins, benjamins, minimes et cadet en simple
 le dimanche 10 euros pour les jeunes
 Chèques pour les séries 1, 2 et 3
@@ -58,137 +58,137 @@ les doubles homme et double dame le dimanche
     
     <item>
       <title>Assemblée Générale</title>
-      <link>/event/aseemble_genrale/</link>
+      <link>https://bad-montigny.fr/event/aseemble_genrale/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/event/aseemble_genrale/</guid>
+      <guid>https://bad-montigny.fr/event/aseemble_genrale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reprise Adultes</title>
-      <link>/event/rentr%C3%A9e/</link>
+      <link>https://bad-montigny.fr/event/rentr%C3%A9e/</link>
       <pubDate>Mon, 07 Sep 2020 22:00:00 +0000</pubDate>
       
-      <guid>/event/rentr%C3%A9e/</guid>
+      <guid>https://bad-montigny.fr/event/rentr%C3%A9e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repas des bénévoles</title>
-      <link>/event/repas_benevole/</link>
+      <link>https://bad-montigny.fr/event/repas_benevole/</link>
       <pubDate>Thu, 03 Sep 2020 22:00:00 +0000</pubDate>
       
-      <guid>/event/repas_benevole/</guid>
+      <guid>https://bad-montigny.fr/event/repas_benevole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nouveau site</title>
-      <link>/post/nouveau-site/</link>
+      <link>https://bad-montigny.fr/post/nouveau-site/</link>
       <pubDate>Wed, 17 Jun 2020 12:09:45 +0000</pubDate>
       
-      <guid>/post/nouveau-site/</guid>
+      <guid>https://bad-montigny.fr/post/nouveau-site/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fin de saison</title>
-      <link>/post/fin-de-saison/</link>
+      <link>https://bad-montigny.fr/post/fin-de-saison/</link>
       <pubDate>Mon, 18 May 2020 20:00:00 +0000</pubDate>
       
-      <guid>/post/fin-de-saison/</guid>
+      <guid>https://bad-montigny.fr/post/fin-de-saison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remboursement Tournoi 2019-2020</title>
-      <link>/post/remboursement-tournoi-2019-2020/</link>
+      <link>https://bad-montigny.fr/post/remboursement-tournoi-2019-2020/</link>
       <pubDate>Wed, 13 May 2020 19:00:00 +0000</pubDate>
       
-      <guid>/post/remboursement-tournoi-2019-2020/</guid>
+      <guid>https://bad-montigny.fr/post/remboursement-tournoi-2019-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communiqué FFBad</title>
-      <link>/post/nouvel-article/</link>
+      <link>https://bad-montigny.fr/post/nouvel-article/</link>
       <pubDate>Sat, 02 May 2020 22:00:00 +0000</pubDate>
       
-      <guid>/post/nouvel-article/</guid>
+      <guid>https://bad-montigny.fr/post/nouvel-article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journée jeune</title>
-      <link>/resultat/journee-jeune/</link>
+      <link>https://bad-montigny.fr/resultat/journee-jeune/</link>
       <pubDate>Sun, 08 Mar 2020 16:00:00 +0000</pubDate>
       
-      <guid>/resultat/journee-jeune/</guid>
+      <guid>https://bad-montigny.fr/resultat/journee-jeune/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Départementaux J11</title>
-      <link>/resultat/resume-j11/</link>
+      <link>https://bad-montigny.fr/resultat/resume-j11/</link>
       <pubDate>Sun, 01 Mar 2020 23:00:00 +0000</pubDate>
       
-      <guid>/resultat/resume-j11/</guid>
+      <guid>https://bad-montigny.fr/resultat/resume-j11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Créneau jeu libre</title>
-      <link>/event/event2-copy/</link>
+      <link>https://bad-montigny.fr/event/event2-copy/</link>
       <pubDate>Mon, 03 Feb 2020 13:25:27 +0000</pubDate>
       
-      <guid>/event/event2-copy/</guid>
+      <guid>https://bad-montigny.fr/event/event2-copy/</guid>
       <description>Victoire 6-2 contre Issy-les-Moulineaux
 Défaite 2-6 contre Bondy</description>
     </item>
     
     <item>
       <title>Départementaux J10</title>
-      <link>/resultat/departementaux-j10/</link>
+      <link>https://bad-montigny.fr/resultat/departementaux-j10/</link>
       <pubDate>Sun, 02 Feb 2020 10:30:53 +0000</pubDate>
       
-      <guid>/resultat/departementaux-j10/</guid>
+      <guid>https://bad-montigny.fr/resultat/departementaux-j10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Départementaux J9</title>
-      <link>/resultat/departementaux-j9/</link>
+      <link>https://bad-montigny.fr/resultat/departementaux-j9/</link>
       <pubDate>Mon, 27 Jan 2020 10:45:18 +0000</pubDate>
       
-      <guid>/resultat/departementaux-j9/</guid>
+      <guid>https://bad-montigny.fr/resultat/departementaux-j9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trophée Jeunes J3</title>
-      <link>/resultat/troph%C3%A9e-jeunes-j3/</link>
+      <link>https://bad-montigny.fr/resultat/troph%C3%A9e-jeunes-j3/</link>
       <pubDate>Mon, 20 Jan 2020 12:45:37 +0000</pubDate>
       
-      <guid>/resultat/troph%C3%A9e-jeunes-j3/</guid>
+      <guid>https://bad-montigny.fr/resultat/troph%C3%A9e-jeunes-j3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tournoi de Voisins</title>
-      <link>/resultat/tournoi-de-voisins/</link>
+      <link>https://bad-montigny.fr/resultat/tournoi-de-voisins/</link>
       <pubDate>Mon, 20 Jan 2020 12:23:27 +0000</pubDate>
       
-      <guid>/resultat/tournoi-de-voisins/</guid>
+      <guid>https://bad-montigny.fr/resultat/tournoi-de-voisins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Animation Bad au Féminin</title>
-      <link>/post/new-post/</link>
+      <link>https://bad-montigny.fr/post/new-post/</link>
       <pubDate>Sat, 11 Jan 2020 07:56:00 +0000</pubDate>
       
-      <guid>/post/new-post/</guid>
+      <guid>https://bad-montigny.fr/post/new-post/</guid>
       <description>Le Comité des Yvelines de Badminton organise une animation « Bad au Féminin » le samedi 11 janvier 2020 de 13h30 à 16h30 au Vélodrome de Saint-Quentin-en-Yvelines (1 rue Laurent Fignon, 78180 Montigny-le-Bretonneux)
 Au programme de cet après-midi : du fit’minton (mélange de fitness et de déplacements badminton en musique) et du badminton.
 Toutes les femmes (licenciées ou non) peuvent participer à cette animation. N’hésitez pas à inviter vos amies. Il est juste nécessaire de s’inscrire en cliquant sur le lien suivantformulaire .</description>
@@ -196,10 +196,10 @@ Toutes les femmes (licenciées ou non) peuvent participer à cette animation. N�
     
     <item>
       <title>Vacances de fin d&#39;année</title>
-      <link>/post/joyeusesf%C3%AAtes/</link>
+      <link>https://bad-montigny.fr/post/joyeusesf%C3%AAtes/</link>
       <pubDate>Fri, 20 Dec 2019 08:46:20 +0000</pubDate>
       
-      <guid>/post/joyeusesf%C3%AAtes/</guid>
+      <guid>https://bad-montigny.fr/post/joyeusesf%C3%AAtes/</guid>
       <description>Les installations sportives sont fermés pendant les vacances de fin d&amp;rsquo;année. Il n&amp;rsquo;y aura donc aucun créneau durant cette période.
 Rendez-vous en pleine forme sur les terrains dès le 6 janvier 2020.
 En attendant passez de bonne fêtes.</description>
@@ -207,172 +207,172 @@ En attendant passez de bonne fêtes.</description>
     
     <item>
       <title>Vacances toussaint</title>
-      <link>/post/vacances-toussaint/</link>
+      <link>https://bad-montigny.fr/post/vacances-toussaint/</link>
       <pubDate>Thu, 31 Oct 2019 23:00:00 +0000</pubDate>
       
-      <guid>/post/vacances-toussaint/</guid>
+      <guid>https://bad-montigny.fr/post/vacances-toussaint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tournoi de Bar-le-Duc</title>
-      <link>/resultat/tournoi-de-bar-le-duc/</link>
+      <link>https://bad-montigny.fr/resultat/tournoi-de-bar-le-duc/</link>
       <pubDate>Sun, 27 Oct 2019 23:00:00 +0000</pubDate>
       
-      <guid>/resultat/tournoi-de-bar-le-duc/</guid>
+      <guid>https://bad-montigny.fr/resultat/tournoi-de-bar-le-duc/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/club/horaires/</link>
+      <link>https://bad-montigny.fr/club/horaires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/club/horaires/</guid>
+      <guid>https://bad-montigny.fr/club/horaires/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catégories</title>
-      <link>/jeunes/categories/</link>
+      <link>https://bad-montigny.fr/jeunes/categories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/jeunes/categories/</guid>
+      <guid>https://bad-montigny.fr/jeunes/categories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Documents et Liens</title>
-      <link>/documents_liens/</link>
+      <link>https://bad-montigny.fr/documents_liens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/documents_liens/</guid>
+      <guid>https://bad-montigny.fr/documents_liens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equipe 1</title>
-      <link>/equipe/equipe-1/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-1/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-1/</guid>
       <description>L&amp;rsquo;Equipe 1 joue en Régional 3</description>
     </item>
     
     <item>
       <title>Equipe 2</title>
-      <link>/equipe/equipe-2/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-2/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-2/</guid>
       <description>Description possible</description>
     </item>
     
     <item>
       <title>Equipe 3</title>
-      <link>/equipe/equipe-3/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-3/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-3/</guid>
       <description>Description possible</description>
     </item>
     
     <item>
       <title>Equipe 4</title>
-      <link>/equipe/equipe-4/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-4/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-4/</guid>
       <description>Description possible</description>
     </item>
     
     <item>
       <title>Equipe 5</title>
-      <link>/equipe/equipe-5/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-5/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-5/</guid>
       <description>Description possible</description>
     </item>
     
     <item>
       <title>Equipe 6</title>
-      <link>/equipe/equipe-6/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-6/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-6/</guid>
       <description>Description possible</description>
     </item>
     
     <item>
       <title>Equipe 7</title>
-      <link>/equipe/equipe-7/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-7/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-7/</guid>
       <description>Description possible</description>
     </item>
     
     <item>
       <title>Equipe 8</title>
-      <link>/equipe/equipe-8/</link>
+      <link>https://bad-montigny.fr/equipe/equipe-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/equipe-8/</guid>
+      <guid>https://bad-montigny.fr/equipe/equipe-8/</guid>
       <description>Description possible</description>
     </item>
     
     <item>
       <title>Le bureau</title>
-      <link>/club/bureau/</link>
+      <link>https://bad-montigny.fr/club/bureau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/club/bureau/</guid>
+      <guid>https://bad-montigny.fr/club/bureau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lieux</title>
-      <link>/club/lieux/</link>
+      <link>https://bad-montigny.fr/club/lieux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/club/lieux/</guid>
+      <guid>https://bad-montigny.fr/club/lieux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loisirs</title>
-      <link>/loisirs/</link>
+      <link>https://bad-montigny.fr/loisirs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/loisirs/</guid>
+      <guid>https://bad-montigny.fr/loisirs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mentions Legales</title>
-      <link>/about/</link>
+      <link>https://bad-montigny.fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://bad-montigny.fr/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Présentation</title>
-      <link>/club/presentation/</link>
+      <link>https://bad-montigny.fr/club/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/club/presentation/</guid>
+      <guid>https://bad-montigny.fr/club/presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tournoi Jeunes Labelisé LIFB</title>
-      <link>/resultat/tournoi-jeunes-labelis%C3%A9-lifb/</link>
+      <link>https://bad-montigny.fr/resultat/tournoi-jeunes-labelis%C3%A9-lifb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resultat/tournoi-jeunes-labelis%C3%A9-lifb/</guid>
+      <guid>https://bad-montigny.fr/resultat/tournoi-jeunes-labelis%C3%A9-lifb/</guid>
       <description>Nicolas Piquet vainqueur du tournoi jeune labelisé LIFB à Gif-sur-Yvette</description>
     </item>
     
