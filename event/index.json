@@ -3,7 +3,7 @@ data = [
     
 	
 
-    {	"url": "https://bad-montigny.fr/event/stage_jeune_2.html",
+    {	"url": "https://bad-montigny.fr/event/stage_jeune_2/",
         "name": "Stage Jeunes Paques",
         "startDate": new Date(2021, 4-1, 19),
 		
@@ -23,7 +23,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/reprise-copy.html",
+    {	"url": "https://bad-montigny.fr/event/reprise-copy/",
         "name": "IFB",
         "startDate": new Date(2020, 10-1, 20),
 		
@@ -43,7 +43,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/stage_jeune_1.html",
+    {	"url": "https://bad-montigny.fr/event/stage_jeune_1/",
         "name": "Stage Jeunes",
         "startDate": new Date(2020, 10-1, 19),
 		
@@ -63,7 +63,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/toiurnoi_du_forez.html",
+    {	"url": "https://bad-montigny.fr/event/toiurnoi_du_forez/",
         "name": "29 eme tournoi du Forez",
         "startDate": new Date(2020, 10-1, 16),
 		
@@ -83,7 +83,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/aseemble_genrale.html",
+    {	"url": "https://bad-montigny.fr/event/aseemble_genrale/",
         "name": "Assemblée Générale",
         "startDate": new Date(2020, 9-1, 10),
 		
@@ -103,7 +103,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/rentr%C3%A9e.html",
+    {	"url": "https://bad-montigny.fr/event/rentr%C3%A9e/",
         "name": "Reprise Adultes",
         "startDate": new Date(2020, 9-1, 7),
 		
@@ -123,7 +123,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/repas_benevole.html",
+    {	"url": "https://bad-montigny.fr/event/repas_benevole/",
         "name": "Repas des bénévoles",
         "startDate": new Date(2020, 9-1, 3),
 		
@@ -143,7 +143,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-3.html",
+    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-3/",
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 27),
 		
@@ -157,7 +157,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-2.html",
+    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-2/",
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 25),
 		
@@ -171,7 +171,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-1.html",
+    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-1/",
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 20),
 		
@@ -185,7 +185,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel.html",
+    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel/",
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 18),
 		
@@ -199,7 +199,7 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/event2-copy.html",
+    {	"url": "https://bad-montigny.fr/event/event2-copy/",
         "name": "Créneau jeu libre",
         "startDate": new Date(2020, 2-1, 3),
 		
