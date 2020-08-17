@@ -147,6 +147,12 @@ data = [
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 27),
 		
+		"endDate": new Date(2020, 8-1, 27),	
+		"location": "",
+		"color":  "#2b1899"
+		,
+		
+		
 		
 		
 
@@ -161,6 +167,12 @@ data = [
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 25),
 		
+		"endDate": new Date(2020, 8-1, 25),	
+		"location": "",
+		"color":  "#2b1899"
+		,
+		
+		
 		
 		
 
@@ -174,6 +186,12 @@ data = [
     {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-1/",
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 20),
+		
+		"endDate": new Date(2020, 8-1, 20),	
+		"location": "",
+		"color":  "#2b1899"
+		,
+		
 		
 		
 		
@@ -191,7 +209,7 @@ data = [
 		
 		"endDate": new Date(2020, 8-1, 18),	
 		"location": "",
-		"color":  "#cb4335"
+		"color":  "#2b1899"
 		,
 		
 		
