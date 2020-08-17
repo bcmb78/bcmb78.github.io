@@ -189,7 +189,7 @@ data = [
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 18),
 		
-		"endDate": new Date(2020, 8-1, 19),	
+		"endDate": new Date(2020, 8-1, 18),	
 		"location": "",
 		"color":  "#cb4335"
 		,
