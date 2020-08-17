@@ -150,6 +150,13 @@
   </url>
   
   <url>
+    <loc>https://bad-montigny.fr/resultat/resume-j12/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/resultat/</loc>
     <lastmod>2020-03-01T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -166,20 +173,6 @@
   <url>
     <loc>https://bad-montigny.fr/calendar/</loc>
     <lastmod>2020-02-03T13:25:27+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bad-montigny.fr/resultat/departementaux-j10/</loc>
-    <lastmod>2020-02-02T10:30:53+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bad-montigny.fr/resultat/resume-j11/</loc>
-    <lastmod>2020-02-02T10:30:53+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -242,12 +235,6 @@
   
   <url>
     <loc>https://bad-montigny.fr/club/horaires/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bad-montigny.fr/resultat/resume-j21/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
