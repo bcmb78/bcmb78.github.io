@@ -63,6 +63,20 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/fresnes-moi-si-tu-peux/",
+        "name": "Fresnes moi si tu peux",
+        "startDate": new Date(2020, 10-1, 17),
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/toiurnoi_du_forez/",
         "name": "29 eme tournoi du Forez",
         "startDate": new Date(2020, 10-1, 16),
@@ -129,7 +143,7 @@ data = [
 		
 		"endDate": new Date(2020, 8-1, 27),	
 		"location": "",
-		"color":  "#2b1899"
+		"color":  "#000000" 
 		,
 		
 		
@@ -149,7 +163,7 @@ data = [
 		
 		"endDate": new Date(2020, 8-1, 25),	
 		"location": "",
-		"color":  "#2b1899"
+		"color":  "#000000" 
 		,
 		
 		
@@ -169,43 +183,9 @@ data = [
 		
 		"endDate": new Date(2020, 8-1, 20),	
 		"location": "",
-		"color":  "#2b1899"
+		"color":  "#000000" 
 		,
 		
-		
-		
-		
-
-
-
-    }
-    
-    , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel/",
-        "name": "Créneaux exceptionnel",
-        "startDate": new Date(2020, 8-1, 18),
-		
-		"endDate": new Date(2020, 8-1, 18),	
-		"location": "",
-		"color":  "#2b1899"
-		,
-		
-		
-		
-		
-
-
-
-    }
-    
-    , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/event2-copy/",
-        "name": "Créneau jeu libre",
-        "startDate": new Date(2020, 2-1, 3),
 		
 		
 		
