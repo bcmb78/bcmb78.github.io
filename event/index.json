@@ -67,6 +67,12 @@ data = [
         "name": "Fresnes moi si tu peux",
         "startDate": new Date(2020, 10-1, 17),
 		
+		"endDate": new Date(2020, 10-1, 18),	
+		"location": "",
+		"color":  "#28b463" 
+		,
+		
+		
 		
 		
 
