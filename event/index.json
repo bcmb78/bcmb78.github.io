@@ -83,26 +83,6 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/toiurnoi_du_forez/",
-        "name": "29 eme tournoi du Forez",
-        "startDate": new Date(2020, 10-1, 16),
-		
-		"endDate": new Date(2020, 10-1, 17),	
-		"location": "",
-		"color":  "#28b463" 
-		,
-		
-		
-		
-		
-
-
-
-    }
-    
-    , 
-	
-
     {	"url": "https://bad-montigny.fr/event/aseemble_genrale/",
         "name": "Assemblée Générale",
         "startDate": new Date(2020, 9-1, 10),
