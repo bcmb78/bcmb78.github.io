@@ -163,7 +163,7 @@ data = [
 		
 		"endDate": new Date(2020, 8-1, 25),	
 		"location": "",
-		"color":  "#000000" 
+		"color":  "#2b1899"
 		,
 		
 		
