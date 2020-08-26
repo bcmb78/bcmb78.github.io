@@ -29,7 +29,7 @@ data = [
 		
 		"endDate": new Date(2021, 1-1, 31),	
 		"location": "",
-		"color":  "#89d610"	
+		"color":  "#f1c40f"	
 		,
 		
 		
@@ -49,7 +49,7 @@ data = [
 		
 		"endDate": new Date(2021, 1-1, 10),	
 		"location": "",
-		"color":  "#89d610"	
+		"color":  "#f1c40f"	
 		,
 		
 		
@@ -69,7 +69,7 @@ data = [
 		
 		"endDate": new Date(2020, 11-1, 29),	
 		"location": "",
-		"color":  "#89d610"	
+		"color":  "#f1c40f"	
 		,
 		
 		
@@ -89,7 +89,7 @@ data = [
 		
 		"endDate": new Date(2020, 11-1, 8),	
 		"location": "",
-		"color":  "#89d610"	
+		"color":  "#f1c40f"	
 		,
 		
 		
@@ -169,7 +169,7 @@ data = [
 		
 		"endDate": new Date(2020, 10-1, 11),	
 		"location": "",
-		"color":  "#89d610"	
+		"color":  "#f1c40f"	
 		,
 		
 		
