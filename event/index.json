@@ -83,6 +83,26 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/interclub-regional-j1/",
+        "name": "Interclub Régional J1",
+        "startDate": new Date(2020, 10-1, 9),
+		
+		"endDate": new Date(2020, 10-1, 10),	
+		"location": "",
+		"color":  "#000000" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/aseemble_genrale/",
         "name": "Assemblée Générale",
         "startDate": new Date(2020, 9-1, 10),
