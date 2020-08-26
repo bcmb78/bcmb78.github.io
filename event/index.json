@@ -23,6 +23,26 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/interclub-regional-j2/",
+        "name": "Interclub Régional J2",
+        "startDate": new Date(2020, 11-1, 7),
+		
+		"endDate": new Date(2020, 11-1, 8),	
+		"location": "",
+		"color":  "#89d610"	
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/reprise-copy/",
         "name": "IFB",
         "startDate": new Date(2020, 10-1, 20),
