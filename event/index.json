@@ -24,7 +24,7 @@ data = [
 	
 
     {	"url": "https://bad-montigny.fr/event/interclub-regionale-j5/",
-        "name": "Interclub Régionale J5",
+        "name": "Interclub Régional J5",
         "startDate": new Date(2021, 1-1, 30),
 		
 		"endDate": new Date(2021, 1-1, 31),	
@@ -64,7 +64,7 @@ data = [
 	
 
     {	"url": "https://bad-montigny.fr/event/interclub-regional-j3/",
-        "name": "Interclub Régionale J3",
+        "name": "Interclub Régional J3",
         "startDate": new Date(2020, 11-1, 28),
 		
 		"endDate": new Date(2020, 11-1, 29),	
