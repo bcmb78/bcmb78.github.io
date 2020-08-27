@@ -108,6 +108,20 @@
   </url>
   
   <url>
+    <loc>https://bad-montigny.fr/post/</loc>
+    <lastmod>2020-08-27T12:09:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/post/annulation-des-yonex-ifb-2020/</loc>
+    <lastmod>2020-08-27T12:09:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/event/creneaux-exceptionnel-2/</loc>
     <lastmod>2020-08-25T19:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -117,13 +131,6 @@
   <url>
     <loc>https://bad-montigny.fr/event/creneaux-exceptionnel-1/</loc>
     <lastmod>2020-08-20T19:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bad-montigny.fr/post/</loc>
-    <lastmod>2020-08-04T20:34:56+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
