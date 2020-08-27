@@ -223,6 +223,26 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/forum-des-associations-1/",
+        "name": "Forum des associations",
+        "startDate": new Date(2020, 9-1, 4),
+		
+		"endDate": new Date(2020, 9-1, 5),	
+		"location": "",
+		"color":   "#d68910" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-3/",
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 27),
