@@ -263,6 +263,20 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/creneau-supplementaire-1/",
+        "name": "Créneau supplémentaire",
+        "startDate": new Date(2020, 9-1, 1),
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-3/",
         "name": "Créneaux exceptionnel",
         "startDate": new Date(2020, 8-1, 27),
