@@ -103,6 +103,26 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/sky-bad-12/",
+        "name": "Sky'Bad 12",
+        "startDate": new Date(2020, 10-1, 30),
+		
+		"endDate": new Date(2020, 10-1, 31),	
+		"location": "",
+		"color":  "#28b463" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/reprise-copy/",
         "name": "IFB",
         "startDate": new Date(2020, 10-1, 20),
