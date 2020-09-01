@@ -3,13 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bad-montigny.fr/</loc>
-    <lastmod>2021-04-19T22:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://bad-montigny.fr/event/</loc>
     <lastmod>2021-04-19T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -110,6 +103,20 @@
   <url>
     <loc>https://bad-montigny.fr/event/creneau-supplementaire-1/</loc>
     <lastmod>2020-09-02T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/</loc>
+    <lastmod>2020-09-01T14:08:15+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/covid/</loc>
+    <lastmod>2020-09-01T14:08:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -399,12 +406,6 @@
   
   <url>
     <loc>https://bad-montigny.fr/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bad-montigny.fr/covid/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
