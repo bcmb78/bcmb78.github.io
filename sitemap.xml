@@ -276,13 +276,6 @@
   </url>
   
   <url>
-    <loc>https://bad-montigny.fr/skybad/</loc>
-    <lastmod>2019-11-09T22:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://bad-montigny.fr/post/vacances-toussaint/</loc>
     <lastmod>2019-10-31T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -309,19 +302,7 @@
   </url>
   
   <url>
-    <loc>https://bad-montigny.fr/jeunes/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://bad-montigny.fr/documents_liens/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bad-montigny.fr/jeunes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -423,7 +404,19 @@
   </url>
   
   <url>
+    <loc>https://bad-montigny.fr/covid/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/club/presentation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/skybad/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
