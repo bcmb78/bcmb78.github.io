@@ -123,26 +123,6 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/reprise-copy/",
-        "name": "IFB",
-        "startDate": new Date(2020, 10-1, 20),
-		
-		"endDate": new Date(2020, 10-1, 25),	
-		"location": "",
-		"color":   "#d68910" 
-		,
-		
-		
-		
-		
-
-
-
-    }
-    
-    , 
-	
-
     {	"url": "https://bad-montigny.fr/event/stage_jeune_1/",
         "name": "Stage Jeunes",
         "startDate": new Date(2020, 10-1, 19),
