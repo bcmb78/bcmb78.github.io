@@ -183,6 +183,26 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-13-09/",
+        "name": "Créneau Jeu libre Dimanche 13/09",
+        "startDate": new Date(2020, 9-1, 13),
+		
+		"endDate": new Date(2020, 9-1, 13),	
+		"location": "",
+		"color":  "#2b1899"
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/aseemble_genrale/",
         "name": "Assemblée Générale",
         "startDate": new Date(2020, 9-1, 10),
