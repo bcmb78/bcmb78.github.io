@@ -3,8 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-samedi-19-06/</loc>
+    <lastmod>2021-06-19T14:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/event/</loc>
-    <lastmod>2021-04-19T22:00:00+00:00</lastmod>
+    <lastmod>2021-06-19T14:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-samedi-05-06/</loc>
+    <lastmod>2021-06-05T14:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-samedi-22-05/</loc>
+    <lastmod>2021-05-22T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -17,8 +38,43 @@
   </url>
   
   <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-11-04/</loc>
+    <lastmod>2021-04-11T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-28-03/</loc>
+    <lastmod>2021-03-28T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-samedi-20-03/</loc>
+    <lastmod>2021-03-20T14:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-14-02/</loc>
+    <lastmod>2021-02-14T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/event/interclub-regionale-j5/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-samedi-16-01/</loc>
+    <lastmod>2021-01-16T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,8 +87,29 @@
   </url>
   
   <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-13-12/</loc>
+    <lastmod>2020-12-13T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/event/interclub-regional-j3/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-22-11/</loc>
+    <lastmod>2020-11-22T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-08-11/</loc>
+    <lastmod>2020-11-08T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -59,6 +136,13 @@
   </url>
   
   <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-samedi-17-10/</loc>
+    <lastmod>2020-10-17T14:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/event/fresnes-moi-si-tu-peux/</loc>
     <lastmod>2020-10-17T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -68,6 +152,20 @@
   <url>
     <loc>https://bad-montigny.fr/event/interclub-regional-j1/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-27-09/</loc>
+    <lastmod>2020-09-27T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/event/creneau-jeu-libre-samedi-19-09/</loc>
+    <lastmod>2020-09-19T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
