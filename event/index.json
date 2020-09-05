@@ -187,7 +187,7 @@ data = [
         "name": "Créneau Jeu libre",
         "startDate": new Date(2021, 1-1, 16),
 		
-		"endDate": new Date(2021, 1-1, 21),	
+		"endDate": new Date(2021, 1-1, 16),	
 		"location": "",
 		"color":  "#2b1899"
 		,
