@@ -185,6 +185,20 @@
   </url>
   
   <url>
+    <loc>https://bad-montigny.fr/post/</loc>
+    <lastmod>2020-09-07T06:43:16+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/post/reprise-officielle/</loc>
+    <lastmod>2020-09-07T06:43:16+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bad-montigny.fr/event/forum-des-associations-1/</loc>
     <lastmod>2020-09-05T01:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -194,13 +208,6 @@
   <url>
     <loc>https://bad-montigny.fr/event/creneau-supplementaire-1/</loc>
     <lastmod>2020-09-02T20:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bad-montigny.fr/post/</loc>
-    <lastmod>2020-09-01T12:26:03+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
