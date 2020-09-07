@@ -503,26 +503,6 @@ data = [
     , 
 	
 
-    {	"url": "https://bad-montigny.fr/event/rentr%C3%A9e/",
-        "name": "Reprise Adultes",
-        "startDate": new Date(2020, 9-1, 7),
-		
-		"endDate": new Date(2020, 9-1, 7),	
-		"location": "",
-		"color":  "#cb4335"
-		,
-		
-		
-		
-		
-
-
-
-    }
-    
-    , 
-	
-
     {	"url": "https://bad-montigny.fr/event/forum-des-associations-1/",
         "name": "Forum des associations",
         "startDate": new Date(2020, 9-1, 5),
