@@ -445,9 +445,9 @@ data = [
 
     {	"url": "https://bad-montigny.fr/event/journee-1-d1-d2/",
         "name": "Journée 1 (D1-D2)",
-        "startDate": new Date(2020, 9-1, 25),
+        "startDate": new Date(2020, 9-1, 26),
 		
-		"endDate": new Date(2020, 9-1, 26),	
+		"endDate": new Date(2020, 9-1, 27),	
 		"location": "",
 		"color":  "#28b463" 
 		,
