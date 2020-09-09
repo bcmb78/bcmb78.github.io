@@ -443,6 +443,26 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/journee-1-d1-d2/",
+        "name": "Journée 1 (D1-D2)",
+        "startDate": new Date(2020, 9-1, 25),
+		
+		"endDate": new Date(2020, 9-1, 26),	
+		"location": "",
+		"color":  "#28b463" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-19-09/",
         "name": "Créneau Jeu libre",
         "startDate": new Date(2020, 9-1, 19),
