@@ -344,7 +344,7 @@ data = [
 	
 
     {	"url": "https://bad-montigny.fr/event/stage_jeune_1/",
-        "name": "Stage Jeunes",
+        "name": "Stage Jeunes Toussaint",
         "startDate": new Date(2020, 10-1, 19),
 		
 		"endDate": new Date(2020, 10-1, 23),	
