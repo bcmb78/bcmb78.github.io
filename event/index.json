@@ -283,6 +283,26 @@ data = [
     , 
 	
 
+    {	"url": "https://bad-montigny.fr/event/division-2-j2/",
+        "name": "Division 2 - J2",
+        "startDate": new Date(2020, 11-1, 21),
+		
+		"endDate": new Date(2020, 11-1, 22),	
+		"location": "",
+		"color":  "#28b463" 
+		,
+		
+		
+		
+		
+
+
+
+    }
+    
+    , 
+	
+
     {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-08-11/",
         "name": "Créneau Jeu libre",
         "startDate": new Date(2020, 11-1, 8),
@@ -305,26 +325,6 @@ data = [
 
     {	"url": "https://bad-montigny.fr/event/division-1-j2/",
         "name": "Division 1 - J2",
-        "startDate": new Date(2020, 11-1, 7),
-		
-		"endDate": new Date(2020, 11-1, 8),	
-		"location": "",
-		"color":  "#28b463" 
-		,
-		
-		
-		
-		
-
-
-
-    }
-    
-    , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/division-2-j2/",
-        "name": "Division 2 - J2",
         "startDate": new Date(2020, 11-1, 7),
 		
 		"endDate": new Date(2020, 11-1, 8),	
