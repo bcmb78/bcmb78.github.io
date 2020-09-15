@@ -193,7 +193,14 @@
   
   <url>
     <loc>https://bad-montigny.fr/post/</loc>
-    <lastmod>2020-09-14T12:02:39+00:00</lastmod>
+    <lastmod>2020-09-15T07:35:16+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/post/interclubs-regional/</loc>
+    <lastmod>2020-09-15T07:35:16+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
