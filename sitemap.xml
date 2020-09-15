@@ -193,7 +193,14 @@
   
   <url>
     <loc>https://bad-montigny.fr/post/</loc>
-    <lastmod>2020-09-15T07:35:16+00:00</lastmod>
+    <lastmod>2020-09-15T13:00:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bad-montigny.fr/post/classement-ce-qui-va-changer-pour-la-rentree-sportive-2020-2021/</loc>
+    <lastmod>2020-09-15T13:00:28+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
