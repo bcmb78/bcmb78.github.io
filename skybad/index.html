@@ -15,6 +15,11 @@
     
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap" rel="stylesheet" >
 
+	<script src=/js/moment.min.js></script> 
+	<script src=/js/jquery.min.js></script>
+	<script src=/js/jquery-ui.custom.min.js></script>
+	<script src=/js/fullcalendar.min.js></script>
+	<script src=/js/lang-all.js></script>
     
 
     <link rel="stylesheet" href=/ponigym/css/bootstrap.min.css media="all">
@@ -28,6 +33,8 @@
 	
 	
 	<link rel="icon" href=/img/favicon/favicon.ico />
+	
+	<link rel='stylesheet' href='https://bad-montigny.frcss/fullcalendar.min.css' />
 	
 	
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167628005-1"></script>
@@ -46,6 +53,8 @@
 </head>
 
 <body>
+	
+
     
     <div id="preloder">
         <div class="loader"></div>
@@ -155,181 +164,174 @@
 
 
 	
-	<section class="blog-section spad">
-	
-		<div class="container">
-			<div class="row">
-				<div class="col-6" style="min-height:10rem">
-				
-				<h2>Sky&#39;Bad 12</h2>
-				
-					<p> 31 Octobre 2020 </p>
-					<p><p>Le BCMB organise la 12ème édition de son tournoi du Sky&rsquo;Bad le 31 octobre et 1er novembre 2020.</p>
+<section class="blog-section">
+
+<div class="container">
+	<div class="row" style="padding-top:1em;padding-bottom:3em">
+		<div class="col-6" style="min-height:10rem">
+		
+			<p><p>Le BCMB organise la 12ème édition de son tournoi du Sky&rsquo;Bad le 31 octobre et 1er novembre 2020.</p>
 <p>Nous gardons notre formule qui a fait son succès par le passé avec un super gymnase de 7 terrains, une salle d'échauffement pour être au top avant vos matchs, une belle buvette pour vous rassasier, un stand Larde pour vous équiper comme il se doit et d&rsquo;autres surprises encore !</p>
 <p>Suite au succès des éditions précédentes, nous vous conseillons de vous inscrire le plus tôt possible, les premiers inscrits seront les premiers servis !</p>
 </p>
-					
-					
-					
-						
-						<div class="row" style="width:100%">
-							
-							<div class="col-lg-4">
-							
-							<button class="docs red" type="button" onclick="window.open(&#34;/img/skybad12-feuille-d-inscription-v1.xlsx&#34;)">
-								Fiche d'inscription
-							</button>
-							
-							
-							</div>
-							
-							
-							<div class="col-lg-4">
-							
-								<button class="docs cyan" type="button" onclick="window.open(&#34;/img/skybad12_reglement_particulierv1.pdf&#34;)">
-									Règlement
-								</button>
-							
-							</div>
-							
-							<div class="col-lg-4">
-							
-								<button class="docs disabled" type="button">
-									Convocations
-								</button>
-							
-							</div>
-						</div>
-					
-					
-				
-				</div>
-				
-				<div class="col-6" style="text-align: center"	>
-				
-	
-					
-					<img class="f-img img-fluid mx-auto" src=/img/presentation_skybad.png alt="" style="max-height:70vh; align: center">
-
-				</div>
-				
+			
+			
 			
 				
-		</div>
-
-	</section>
+				<div class="row" style="width:100%">
+					
+					<div class="col-lg-4">
+					
+					<button class="docs red" type="button" onclick="window.open(&#34;/img/skybad12-feuille-d-inscription-v1.xlsx&#34;)">
+						Fiche d'inscription
+					</button>
+					
+					
+					</div>
+					
+					
+					<div class="col-lg-4">
+					
+						<button class="docs cyan" type="button" onclick="window.open(&#34;/img/skybad12_reglement_particulierv1.pdf&#34;)">
+							Règlement
+						</button>
+					
+					</div>
+					
+					<div class="col-lg-4">
+					
+						<button class="docs disabled" type="button">
+							Convocations
+						</button>
+					
+					</div>
+				</div>
 			
-	<section style="margin-top:2em">
-		<div class="container">
-				<div class="section-title">
-					<h2> Résultats</h2>                                
-				</div>
-				<div class="row" style="margin-bottom:1em">
-					
-						<div class="col-lg-3">
-						<a href=https://myffbad.fr/tournoi/resultats/1700081690 target="_blank">
-							<div class="palmares">
-								<img class="image_palmares" src=/img/icon-podium.png alt="" >
-								<div class="overlay_palmares">
-									<div class="text_palmares">Skybad 11</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-					
-						<div class="col-lg-3">
-						<a href=https://myffbad.fr/tournoi/resultats/1600077684 target="_blank">
-							<div class="palmares">
-								<img class="image_palmares" src=/img/icon-podium.png alt="" >
-								<div class="overlay_palmares">
-									<div class="text_palmares">Skybad 10</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-					
-						<div class="col-lg-3">
-						<a href=https://myffbad.fr/tournoi/resultats/1500073354 target="_blank">
-							<div class="palmares">
-								<img class="image_palmares" src=/img/icon-podium.png alt="" >
-								<div class="overlay_palmares">
-									<div class="text_palmares">Skybad 9</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-					
-						<div class="col-lg-3">
-						<a href=https://myffbad.fr/tournoi/resultats/1400071700 target="_blank">
-							<div class="palmares">
-								<img class="image_palmares" src=/img/icon-podium.png alt="" >
-								<div class="overlay_palmares">
-									<div class="text_palmares">Skybad 8</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-					
-				</div>
+			
 		
-		
-				<div class="section-title">
-					<h2>Photos </h2>                                
-				</div>
-				<div class="row" style="margin-bottom:1em">
-					
-						<div class="col-lg-3">
-						<a href=https://photos.app.goo.gl/QJQmQRqTqc7XxzAj8 target="_blank">
-							<div class="album_thumb">
-								<img class="image_thumb" src=/img/img_1754_dpp4_ld.jpg alt="" >
-								<div class="overlay_thumb">
-									<div class="text_thumb">Skybad 11</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-						
-					
-						<div class="col-lg-3">
-						<a href=https://photos.app.goo.gl/uVvQEqvS4c8S6MYz5 target="_blank">
-							<div class="album_thumb">
-								<img class="image_thumb" src=/img/20181118_175739.jpg alt="" >
-								<div class="overlay_thumb">
-									<div class="text_thumb">Skybad 10</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-						
-					
-						<div class="col-lg-3">
-						<a href=https://photos.app.goo.gl/WY5jBr2X09A3dePc2 target="_blank">
-							<div class="album_thumb">
-								<img class="image_thumb" src=/img/dsc_1646_new_dsc_1648_new-3-images.jpg alt="" >
-								<div class="overlay_thumb">
-									<div class="text_thumb">Skybad 9</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-						
-					
-						<div class="col-lg-3">
-						<a href=https://photos.app.goo.gl/QeVZVozJ4mE9pypR2 target="_blank">
-							<div class="album_thumb">
-								<img class="image_thumb" src=/img/img-20170416-wa0015.jpg alt="" >
-								<div class="overlay_thumb">
-									<div class="text_thumb">Skybad 8</div>
-								</div>  
-							</div>
-							</a>
-						</div>
-						
-					
-				</div>
 		</div>
-	</section>
+		
+		<div class="col-6" style="text-align: center"	>
+		
+
+			
+			<img src=/img/presentation_skybad.png alt="" style="align: center; object-fit: cover">
+
+		</div>
+		
 	
+		
+</div>
+
+			<div class="section-title">
+				<h2>Photos </h2>                                
+			</div>
+			<div class="row" style="padding-bottom:2em">
+				
+					<div class="col-lg-3">
+					<a href=https://photos.app.goo.gl/QJQmQRqTqc7XxzAj8 target="_blank">
+						<div class="album_thumb">
+							<img class="image_thumb" src=/img/img_1754_dpp4_ld.jpg alt="" >
+							<div class="overlay_thumb">
+								<div class="text_thumb">Skybad 11</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+					
+				
+					<div class="col-lg-3">
+					<a href=https://photos.app.goo.gl/uVvQEqvS4c8S6MYz5 target="_blank">
+						<div class="album_thumb">
+							<img class="image_thumb" src=/img/20181118_175739.jpg alt="" >
+							<div class="overlay_thumb">
+								<div class="text_thumb">Skybad 10</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+					
+				
+					<div class="col-lg-3">
+					<a href=https://photos.app.goo.gl/WY5jBr2X09A3dePc2 target="_blank">
+						<div class="album_thumb">
+							<img class="image_thumb" src=/img/dsc_1646_new_dsc_1648_new-3-images.jpg alt="" >
+							<div class="overlay_thumb">
+								<div class="text_thumb">Skybad 9</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+					
+				
+					<div class="col-lg-3">
+					<a href=https://photos.app.goo.gl/QeVZVozJ4mE9pypR2 target="_blank">
+						<div class="album_thumb">
+							<img class="image_thumb" src=/img/img-20170416-wa0015.jpg alt="" >
+							<div class="overlay_thumb">
+								<div class="text_thumb">Skybad 8</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+					
+				
+			</div>
+			<div class="section-title">
+				<h2> Résultats</h2>                                
+			</div>
+			<div class="row" style="padding-bottom:1em">
+				
+					<div class="col-lg-3">
+					<a href=https://myffbad.fr/tournoi/resultats/1700081690 target="_blank">
+						<div class="palmares">
+							<img class="image_palmares" src=/img/icon-podium.png alt="" >
+							<div class="overlay_palmares">
+								<div class="text_palmares">Skybad 11</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+				
+					<div class="col-lg-3">
+					<a href=https://myffbad.fr/tournoi/resultats/1600077684 target="_blank">
+						<div class="palmares">
+							<img class="image_palmares" src=/img/icon-podium.png alt="" >
+							<div class="overlay_palmares">
+								<div class="text_palmares">Skybad 10</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+				
+					<div class="col-lg-3">
+					<a href=https://myffbad.fr/tournoi/resultats/1500073354 target="_blank">
+						<div class="palmares">
+							<img class="image_palmares" src=/img/icon-podium.png alt="" >
+							<div class="overlay_palmares">
+								<div class="text_palmares">Skybad 9</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+				
+					<div class="col-lg-3">
+					<a href=https://myffbad.fr/tournoi/resultats/1400071700 target="_blank">
+						<div class="palmares">
+							<img class="image_palmares" src=/img/icon-podium.png alt="" >
+							<div class="overlay_palmares">
+								<div class="text_palmares">Skybad 8</div>
+							</div>  
+						</div>
+						</a>
+					</div>
+				
+			</div>
+	
+	
+
+</section>
+		
 
 			
 
@@ -384,7 +386,7 @@
                     <div class="col-lg-12">
 
                         <div class="footer-widget">
-                            <ul>
+                            <ul style="color: #ddd">
                                 <li><a href="https://bad-montigny.fr/club#bureau">Nous contacter </a></li>
                                 <li><a href=/about>Mentions légales</a></li>
                                 <li><a href="https://app.forestry.io/sites/aebp2kycerm0ug/#/" target="_blank">Se connecter</a></li>
@@ -406,29 +408,16 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 
     
-    <script src=/ponigym/js/jquery-3.3.1.min.js></script>
+    
     <script src=/ponigym/js/bootstrap.min.js></script>
     <script src=/ponigym/js/jquery.magnific-popup.min.js></script> 
     <script src=/ponigym/js/mixitup.min.js></script>
     <script src=/ponigym/js/jquery.slicknav.js></script>
      <script src=/ponigym/js/owl.carousel.min.js></script> 
     <script src=/ponigym/js/main.js></script>
-	
-	
-	 
 		
-			
 	
-	
-	
-	
-	
-	<script type="text/javascript" src="https://unpkg.com/popper.js@1.14.7/dist/umd/popper.min.js"></script>
-	<script type="text/javascript" src="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/js/bootstrap-datepicker.min.js"></script>
-	<script type="text/javascript" src="https://unpkg.com/js-year-calendar@latest/locales/js-year-calendar.fr.js"></script>
+ 
 	
 </body>
 

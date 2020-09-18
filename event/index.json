@@ -1,663 +1,333 @@
-data = [
+[
     
     
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-19-06/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 6-1, 19),
-		
-		"endDate": new Date(2021, 6-1, 19),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-06-19T00:00:00",
+		"end": "2021-06-19T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-19-06/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-05-06/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 6-1, 5),
-		
-		"endDate": new Date(2021, 6-1, 5),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-06-05T00:00:00",
+		"end": "2021-06-05T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-05-06/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-22-05/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 5-1, 22),
-		
-		"endDate": new Date(2021, 5-1, 22),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-05-22T00:00:00",
+		"end": "2021-05-22T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-22-05/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/stage_jeune_2/",
-        "name": "Stage Jeunes Paques",
-        "startDate": new Date(2021, 4-1, 19),
-		
-		"endDate": new Date(2021, 4-1, 23),	
-		"location": "",
+    {
+        "title": "Stage Jeunes Paques",
+        "start": "2021-04-19T00:00:00",
+		"end": "2021-04-23T08:00:00",
+        "url": "https://bad-montigny.fr/event/stage_jeune_2/",
 		"color":   "#8910d6" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-11-04/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 4-1, 11),
-		
-		"endDate": new Date(2021, 4-1, 11),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-04-11T00:00:00",
+		"end": "2021-04-11T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-11-04/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-28-03/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 3-1, 28),
-		
-		"endDate": new Date(2021, 3-1, 28),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-03-28T00:00:00",
+		"end": "2021-03-28T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-28-03/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-20-03/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 3-1, 20),
-		
-		"endDate": new Date(2021, 3-1, 20),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-03-20T00:00:00",
+		"end": "2021-03-20T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-20-03/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-14-02/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 2-1, 14),
-		
-		"endDate": new Date(2021, 2-1, 14),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-02-14T00:00:00",
+		"end": "2021-02-14T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-14-02/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/interclub-regionale-j5/",
-        "name": "Interclub Régional J5",
-        "startDate": new Date(2021, 1-1, 30),
-		
-		"endDate": new Date(2021, 1-1, 31),	
-		"location": "",
+    {
+        "title": "Interclub Régional J5",
+        "start": "2021-01-30T00:00:00",
+		"end": "2021-01-31T08:00:00",
+        "url": "https://bad-montigny.fr/event/interclub-regionale-j5/",
 		"color":  "#f1c40f"	
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-16-01/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2021, 1-1, 16),
-		
-		"endDate": new Date(2021, 1-1, 16),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2021-01-16T00:00:00",
+		"end": "2021-01-16T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-16-01/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/interclub-regional-j4/",
-        "name": "Interclub Régional J4",
-        "startDate": new Date(2021, 1-1, 9),
-		
-		"endDate": new Date(2021, 1-1, 10),	
-		"location": "",
+    {
+        "title": "Interclub Régional J4",
+        "start": "2021-01-09T00:00:00",
+		"end": "2021-01-10T08:00:00",
+        "url": "https://bad-montigny.fr/event/interclub-regional-j4/",
 		"color":  "#f1c40f"	
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-13-12/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2020, 12-1, 13),
-		
-		"endDate": new Date(2020, 12-1, 13),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2020-12-13T00:00:00",
+		"end": "2020-12-13T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-13-12/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/interclub-regional-j3/",
-        "name": "Interclub Régional J3",
-        "startDate": new Date(2020, 11-1, 28),
-		
-		"endDate": new Date(2020, 11-1, 29),	
-		"location": "",
+    {
+        "title": "Interclub Régional J3",
+        "start": "2020-11-28T00:00:00",
+		"end": "2020-11-29T08:00:00",
+        "url": "https://bad-montigny.fr/event/interclub-regional-j3/",
 		"color":  "#f1c40f"	
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-22-11/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2020, 11-1, 22),
-		
-		"endDate": new Date(2020, 11-1, 22),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2020-11-22T00:00:00",
+		"end": "2020-11-22T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-22-11/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/division-2-j2/",
-        "name": "Division 2 - J2",
-        "startDate": new Date(2020, 11-1, 21),
-		
-		"endDate": new Date(2020, 11-1, 22),	
-		"location": "",
+    {
+        "title": "Division 2 - J2",
+        "start": "2020-11-21T00:00:00",
+		"end": "2020-11-22T08:00:00",
+        "url": "https://bad-montigny.fr/event/division-2-j2/",
 		"color":  "#28b463" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-08-11/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2020, 11-1, 8),
-		
-		"endDate": new Date(2020, 11-1, 8),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2020-11-08T00:00:00",
+		"end": "2020-11-08T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-08-11/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/division-1-j2/",
-        "name": "Division 1 - J2",
-        "startDate": new Date(2020, 11-1, 7),
-		
-		"endDate": new Date(2020, 11-1, 8),	
-		"location": "",
+    {
+        "title": "Division 1 - J2",
+        "start": "2020-11-07T00:00:00",
+		"end": "2020-11-08T08:00:00",
+        "url": "https://bad-montigny.fr/event/division-1-j2/",
 		"color":  "#28b463" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/interclub-regional-j2/",
-        "name": "Interclub Régional J2",
-        "startDate": new Date(2020, 11-1, 7),
-		
-		"endDate": new Date(2020, 11-1, 8),	
-		"location": "",
+    {
+        "title": "Interclub Régional J2",
+        "start": "2020-11-07T00:00:00",
+		"end": "2020-11-08T08:00:00",
+        "url": "https://bad-montigny.fr/event/interclub-regional-j2/",
 		"color":  "#f1c40f"	
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/sky-bad-12/",
-        "name": "Sky'Bad 12",
-        "startDate": new Date(2020, 10-1, 31),
-		
-		"endDate": new Date(2020, 11-1, 1),	
-		"location": "",
+    {
+        "title": "Sky'Bad 12",
+        "start": "2020-10-31T00:00:00",
+		"end": "2020-11-01T08:00:00",
+        "url": "https://bad-montigny.fr/event/sky-bad-12/",
 		"color":  "#28b463" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/stage_jeune_1/",
-        "name": "Stage Jeunes Toussaint",
-        "startDate": new Date(2020, 10-1, 19),
-		
-		"endDate": new Date(2020, 10-1, 23),	
-		"location": "",
+    {
+        "title": "Stage Jeunes Toussaint",
+        "start": "2020-10-19T00:00:00",
+		"end": "2020-10-23T08:00:00",
+        "url": "https://bad-montigny.fr/event/stage_jeune_1/",
 		"color":   "#8910d6" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-17-10/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2020, 10-1, 17),
-		
-		"endDate": new Date(2020, 10-1, 17),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2020-10-17T00:00:00",
+		"end": "2020-10-17T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-17-10/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/fresnes-moi-si-tu-peux/",
-        "name": "Fresnes moi si tu peux",
-        "startDate": new Date(2020, 10-1, 17),
-		
-		"endDate": new Date(2020, 10-1, 18),	
-		"location": "",
+    {
+        "title": "Fresnes moi si tu peux",
+        "start": "2020-10-17T00:00:00",
+		"end": "2020-10-18T08:00:00",
+        "url": "https://bad-montigny.fr/event/fresnes-moi-si-tu-peux/",
 		"color":  "#28b463" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/interclub-regional-j1/",
-        "name": "Interclub Régional J1",
-        "startDate": new Date(2020, 10-1, 11),
-		
-		"endDate": new Date(2020, 10-1, 11),	
-		"location": "",
+    {
+        "title": "Interclub Régional J1",
+        "start": "2020-10-11T00:00:00",
+		"end": "2020-10-11T08:00:00",
+        "url": "https://bad-montigny.fr/event/interclub-regional-j1/",
 		"color":  "#f1c40f"	
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-27-09/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2020, 9-1, 27),
-		
-		"endDate": new Date(2020, 9-1, 27),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2020-09-27T00:00:00",
+		"end": "2020-09-27T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-27-09/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/journee-1-d1-d2/",
-        "name": "Jeunes Journée 1 (D1-D2)",
-        "startDate": new Date(2020, 9-1, 26),
-		
-		"endDate": new Date(2020, 9-1, 27),	
-		"location": "",
+    {
+        "title": "Jeunes Journée 1 (D1-D2)",
+        "start": "2020-09-26T00:00:00",
+		"end": "2020-09-27T08:00:00",
+        "url": "https://bad-montigny.fr/event/journee-1-d1-d2/",
 		"color":  "#28b463" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-19-09/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2020, 9-1, 19),
-		
-		"endDate": new Date(2020, 9-1, 19),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2020-09-19T00:00:00",
+		"end": "2020-09-19T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-samedi-19-09/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-13-09/",
-        "name": "Créneau Jeu libre",
-        "startDate": new Date(2020, 9-1, 13),
-		
-		"endDate": new Date(2020, 9-1, 13),	
-		"location": "",
+    {
+        "title": "Créneau Jeu libre",
+        "start": "2020-09-13T00:00:00",
+		"end": "2020-09-13T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-jeu-libre-dimanche-13-09/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/aseemble_genrale/",
-        "name": "Assemblée Générale",
-        "startDate": new Date(2020, 9-1, 10),
-		
-		"endDate": new Date(2020, 9-1, 10),	
-		"location": "",
+    {
+        "title": "Assemblée Générale",
+        "start": "2020-09-10T00:00:00",
+		"end": "2020-09-10T08:00:00",
+        "url": "https://bad-montigny.fr/event/aseemble_genrale/",
 		"color":  "#cb4335"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/forum-des-associations-1/",
-        "name": "Forum des associations",
-        "startDate": new Date(2020, 9-1, 5),
-		
-		"endDate": new Date(2020, 9-1, 5),	
-		"location": "",
+    {
+        "title": "Forum des associations",
+        "start": "2020-09-05T00:00:00",
+		"end": "2020-09-05T08:00:00",
+        "url": "https://bad-montigny.fr/event/forum-des-associations-1/",
 		"color":   "#d68910" 
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneau-supplementaire-1/",
-        "name": "Créneau supplémentaire",
-        "startDate": new Date(2020, 9-1, 2),
-		
-		"endDate": new Date(2020, 9-1, 2),	
-		"location": "",
+    {
+        "title": "Créneau supplémentaire",
+        "start": "2020-09-02T00:00:00",
+		"end": "2020-09-02T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneau-supplementaire-1/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-3/",
-        "name": "Créneaux exceptionnel",
-        "startDate": new Date(2020, 8-1, 27),
-		
-		"endDate": new Date(2020, 8-1, 27),	
-		"location": "",
+    {
+        "title": "Créneaux exceptionnel",
+        "start": "2020-08-27T00:00:00",
+		"end": "2020-08-27T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneaux-exceptionnel-3/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-2/",
-        "name": "Créneaux exceptionnel",
-        "startDate": new Date(2020, 8-1, 25),
-		
-		"endDate": new Date(2020, 8-1, 25),	
-		"location": "",
+    {
+        "title": "Créneaux exceptionnel",
+        "start": "2020-08-25T00:00:00",
+		"end": "2020-08-25T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneaux-exceptionnel-2/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
     , 
-	
-
-    {	"url": "https://bad-montigny.fr/event/creneaux-exceptionnel-1/",
-        "name": "Créneaux exceptionnel",
-        "startDate": new Date(2020, 8-1, 20),
-		
-		"endDate": new Date(2020, 8-1, 20),	
-		"location": "",
+    {
+        "title": "Créneaux exceptionnel",
+        "start": "2020-08-20T00:00:00",
+		"end": "2020-08-20T08:00:00",
+        "url": "https://bad-montigny.fr/event/creneaux-exceptionnel-1/",
 		"color":  "#2b1899"
-		,
 		
-		
-		
-		
-
-
-
     }
     
 ]
