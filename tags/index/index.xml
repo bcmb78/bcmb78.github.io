@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Badminton Club Montigny-le-Bretonneux</title>
-    <link>https://bad-montigny.fr/tags/index/</link>
+    <link>/tags/index/</link>
     <description>Recent content in index on Badminton Club Montigny-le-Bretonneux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="https://bad-montigny.fr/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evènements</title>
-      <link>https://bad-montigny.fr/event/</link>
+      <link>/event/</link>
       <pubDate>Sat, 19 Jun 2021 14:00:00 +0000</pubDate>
       
-      <guid>https://bad-montigny.fr/event/</guid>
+      <guid>/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Actualité</title>
-      <link>https://bad-montigny.fr/post/</link>
+      <link>/post/</link>
       <pubDate>Tue, 15 Sep 2020 13:00:28 +0000</pubDate>
       
-      <guid>https://bad-montigny.fr/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
