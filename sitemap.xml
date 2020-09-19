@@ -395,7 +395,7 @@
   </url>
   
   <url>
-    <loc>/calendar/</loc>
+    <loc>/fullcalendar/</loc>
     <lastmod>2020-02-03T13:25:27+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
