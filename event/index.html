@@ -166,6 +166,32 @@
 
 
 
+	<link rel="stylesheet" href=/fullcalendar/main.css rel="stylesheet" />
+	<script src=/fullcalendar/main.js></script>
+<script>
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      initialView: 'dayGridMonth',
+	  firstDay: 1,
+	  displayEventTime: false, 
+	  locale: 'fr',
+	  height: 'auto',
+      events: "/event/index.json",	  
+	  headerToolbar: {
+		  start: 'title', 
+		  center: '',
+		  end: 'prev,next' 
+		}
+    });
+
+    calendar.render();
+  });
+
+</script>
+
 <section class="blog-section ">
 	<div class="container">
 	
@@ -177,24 +203,8 @@
 							
 			</div>
 
-			<div id="calendar"></div>
-
-
-			<script>
-				$(document).ready(function () {
-
-					console.log("Ready...");
-
-					$('#calendar').fullCalendar({
-						lang: 'fr',
-						displayEventTime: false,
-						nextDayThreshold: "00:00:00",
-						
-						events: "/event/index.json"
-					})
-
-				});
-			</script>
+			<div id='calendar'></div>
+					
 			
 		</section>
 	
