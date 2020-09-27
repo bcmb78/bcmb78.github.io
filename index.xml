@@ -710,5 +710,14 @@ En attendant passez de bonne fêtes.</description>
       <description>Nicolas Piquet vainqueur du tournoi jeune labelisé LIFB à Gif-sur-Yvette</description>
     </item>
     
+    <item>
+      <title>Trophée Jeune J1</title>
+      <link>/resultat/trophee-jeune-j1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resultat/trophee-jeune-j1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
