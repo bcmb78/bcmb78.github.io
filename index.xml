@@ -230,6 +230,15 @@ Suite au succès des éditions précédentes, nous vous conseillons de vous insc
     </item>
     
     <item>
+      <title>Trophée Jeune J1</title>
+      <link>/resultat/trophee-jeune-j1/</link>
+      <pubDate>Sun, 27 Sep 2020 01:00:00 +0000</pubDate>
+      
+      <guid>/resultat/trophee-jeune-j1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trophée Jeunes J1</title>
       <link>/event/journee-1-d1-d2/</link>
       <pubDate>Sat, 26 Sep 2020 08:00:00 +0000</pubDate>
@@ -708,15 +717,6 @@ En attendant passez de bonne fêtes.</description>
       
       <guid>/resultat/tournoi-jeunes-labelis%C3%A9-lifb/</guid>
       <description>Nicolas Piquet vainqueur du tournoi jeune labelisé LIFB à Gif-sur-Yvette</description>
-    </item>
-    
-    <item>
-      <title>Trophée Jeune J1</title>
-      <link>/resultat/trophee-jeune-j1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/resultat/trophee-jeune-j1/</guid>
-      <description></description>
     </item>
     
   </channel>
