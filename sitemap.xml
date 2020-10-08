@@ -171,6 +171,20 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2020-10-08T12:31:52+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/vacances-de-la-toussaint/</loc>
+    <lastmod>2020-10-08T12:31:52+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/creneau-jeu-libre-dimanche-27-09/</loc>
     <lastmod>2020-09-27T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -194,13 +208,6 @@
   <url>
     <loc>/event/creneau-jeu-libre-samedi-19-09/</loc>
     <lastmod>2020-09-19T14:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-09-15T13:00:28+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
