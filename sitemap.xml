@@ -157,6 +157,13 @@
   </url>
   
   <url>
+    <loc>/event/jeu-libre-competiteurs/</loc>
+    <lastmod>2020-10-19T17:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/creneau-jeu-libre-samedi-17-10/</loc>
     <lastmod>2020-10-17T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
