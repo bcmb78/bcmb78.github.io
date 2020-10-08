@@ -264,6 +264,20 @@
     
     , 
     {
+        "title": "Jeu libre Adultes",
+        "start": "2020-10-29T00:00:00",
+		"end": "2020-10-29T08:00:00",
+        "url": "/event/jeu-libre-adultes-2/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
         "title": "Jeu libre Loisirs",
         "start": "2020-10-27T00:00:00",
 		"end": "2020-10-27T08:00:00",
