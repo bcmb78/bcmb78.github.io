@@ -227,6 +227,13 @@
   </url>
   
   <url>
+    <loc>/post/nous-sommes-complets/</loc>
+    <lastmod>2020-09-29T08:30:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/creneau-jeu-libre-dimanche-27-09/</loc>
     <lastmod>2020-09-27T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
