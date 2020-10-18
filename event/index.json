@@ -214,20 +214,6 @@
     
     , 
     {
-        "title": "Créneau Jeu libre",
-        "start": "2020-11-08T00:00:00",
-		"end": "2020-11-08T08:00:00",
-        "url": "/event/creneau-jeu-libre-dimanche-08-11/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-		
-    }
-    
-    , 
-    {
         "title": "Trophée Jeunes D1 - J2",
         "start": "2020-11-07T00:00:00",
 		"end": "2020-11-08T08:00:00",
