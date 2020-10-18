@@ -278,20 +278,6 @@
     
     , 
     {
-        "title": "Jeu libre Loisirs",
-        "start": "2020-10-27T00:00:00",
-		"end": "2020-10-27T08:00:00",
-        "url": "/event/jeu-libre-loisirs-1/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-		
-    }
-    
-    , 
-    {
         "title": "Jeu libre Compétiteurs",
         "start": "2020-10-26T00:00:00",
 		"end": "2020-10-26T08:00:00",

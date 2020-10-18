@@ -157,13 +157,6 @@
   </url>
   
   <url>
-    <loc>/event/jeu-libre-loisirs-1/</loc>
-    <lastmod>2020-10-27T18:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/event/jeu-libre-competiteurs-1/</loc>
     <lastmod>2020-10-26T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
