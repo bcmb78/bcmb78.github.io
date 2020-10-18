@@ -240,18 +240,6 @@
     
     , 
     {
-        "title": "Interclub Régional J2",
-        "start": "2020-11-07T00:00:00",
-		"end": "2020-11-08T08:00:00",
-        "url": "/event/interclub-regional-j2/",
-		
-
-		"color":  "#f1c40f"	
-		
-    }
-    
-    , 
-    {
         "title": "Jeu libre Adultes",
         "start": "2020-10-29T00:00:00",
 		"end": "2020-10-29T08:00:00",
