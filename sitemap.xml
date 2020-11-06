@@ -590,6 +590,12 @@
   </url>
   
   <url>
+    <loc>/404/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/loisirs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -603,6 +609,12 @@
   
   <url>
     <loc>/club/presentation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/404/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
