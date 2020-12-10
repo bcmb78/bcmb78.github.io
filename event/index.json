@@ -136,32 +136,6 @@
     
     , 
     {
-        "title": "Interclub Régional J4",
-        "start": "2021-01-09T00:00:00",
-		"end": "2021-01-10T08:00:00",
-        "url": "/event/interclub-regional-j4/",
-		
-
-		"color":  "#f1c40f"	
-		
-    }
-    
-    , 
-    {
-        "title": "Créneau Jeu libre",
-        "start": "2020-12-13T00:00:00",
-		"end": "2020-12-13T08:00:00",
-        "url": "/event/creneau-jeu-libre-dimanche-13-12/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-		
-    }
-    
-    , 
-    {
         "title": "Stage Jeunes Toussaint",
         "start": "2020-10-19T00:00:00",
 		"end": "2020-10-23T08:00:00",
