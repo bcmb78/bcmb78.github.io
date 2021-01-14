@@ -30,20 +30,6 @@
     
     , 
     {
-        "title": "Créneau Jeu libre",
-        "start": "2021-05-22T00:00:00",
-		"end": "2021-05-22T08:00:00",
-        "url": "/event/creneau-jeu-libre-samedi-22-05/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-		
-    }
-    
-    , 
-    {
         "title": "Stage Jeunes Paques",
         "start": "2021-04-19T00:00:00",
 		"end": "2021-04-23T08:00:00",
@@ -128,20 +114,6 @@
         "start": "2020-09-27T00:00:00",
 		"end": "2020-09-27T08:00:00",
         "url": "/event/creneau-jeu-libre-dimanche-27-09/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-		
-    }
-    
-    , 
-    {
-        "title": "Créneau Jeu libre",
-        "start": "2020-09-19T00:00:00",
-		"end": "2020-09-19T08:00:00",
-        "url": "/event/creneau-jeu-libre-samedi-19-09/",
 		
 		"allDay": "true",
 		
