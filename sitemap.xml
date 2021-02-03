@@ -364,6 +364,12 @@
   </url>
   
   <url>
+    <loc>/defi/sports/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/jeunes/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -509,6 +515,12 @@
   
   <url>
     <loc>/club/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/defi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
