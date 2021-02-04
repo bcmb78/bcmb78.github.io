@@ -383,6 +383,12 @@
   </url>
   
   <url>
+    <loc>/defi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/documents_liens/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -522,12 +528,6 @@
   
   <url>
     <loc>/club/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/defi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
