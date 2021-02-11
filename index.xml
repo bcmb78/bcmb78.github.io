@@ -430,6 +430,16 @@ En attendant passez de bonne fêtes.</description>
     </item>
     
     <item>
+      <title></title>
+      <link>/defi/equipes_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/defi/equipes_2/</guid>
+      <description>equipes:
+ membre:  nom: Thomas Mrt nom: Cathy BOGNON nom: Marie L nom: jean-charles roussel nom: Marie Leger nom: Satya Wiplier nom: Alain Seguy nom: Equipe 1   membre:  nom: &amp;ldquo;S\xE9bastien Buczynski&amp;rdquo; nom: Aurore Meresse nom: Sylvain Wiplier nom: Manue BROUDER nom: Christophe Dehillotte nom: &amp;ldquo;Elodie Lef\xE8vre&amp;rdquo; nom: Equipe 2   membre:  nom: Bryan Simpson nom: Colette VAUCHEL nom: virginy pilloud nom: Frederic Zaugg nom: &amp;ldquo;Lo\xEFc Le Gal&amp;rdquo; nom: corentin paya nom: Equipe 3 title: Equipes    </description>
+    </item>
+    
+    <item>
       <title>Categories</title>
       <link>/defi/sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -589,6 +599,24 @@ En attendant passez de bonne fêtes.</description>
       
       <guid>/equipe/equipe-8/</guid>
       <description>Description possible</description>
+    </item>
+    
+    <item>
+      <title>Equipes</title>
+      <link>/defi/equipes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/defi/equipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equipes</title>
+      <link>/jeunes/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jeunes/test/</guid>
+      <description></description>
     </item>
     
     <item>

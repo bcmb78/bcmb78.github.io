@@ -359,6 +359,12 @@
   </url>
   
   <url>
+    <loc>/defi/equipes_2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/boutique/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -498,6 +504,18 @@
   
   <url>
     <loc>/equipe/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/defi/equipes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/jeunes/test/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
