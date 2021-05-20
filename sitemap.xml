@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/event/18h00-19h30-poussins-mini-bad/</loc>
-    <lastmod>2021-05-20T16:00:00+00:00</lastmod>
+    <loc>/event/2021_05_21_jeunes/</loc>
+    <lastmod>2021-05-21T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/event/</loc>
+    <lastmod>2021-05-21T16:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/18h00-19h30-poussins-mini-bad/</loc>
     <lastmod>2021-05-20T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
