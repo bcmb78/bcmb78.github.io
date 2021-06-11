@@ -2,6 +2,20 @@
     
     
     {
+        "title": "Assemblée Générale",
+        "start": "2021-06-24T00:00:00",
+		"end": "2021-06-24T08:00:00",
+        "url": "/event/assemblee-generale/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#cb4335"
+		
+    }
+    
+    , 
+    {
         "title": "18h00 - 20h30 Cadets Juniors",
         "start": "2021-06-09T00:00:00",
 		"end": "2021-06-09T08:00:00",
