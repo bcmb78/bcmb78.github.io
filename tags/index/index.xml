@@ -11,20 +11,20 @@
     
     
     <item>
+      <title>Evènements</title>
+      <link>/event/</link>
+      <pubDate>Sun, 11 Jul 2021 22:00:00 +0000</pubDate>
+      
+      <guid>/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Actualité</title>
       <link>/post/</link>
       <pubDate>Sat, 26 Jun 2021 09:47:09 +0000</pubDate>
       
       <guid>/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evènements</title>
-      <link>/event/</link>
-      <pubDate>Thu, 24 Jun 2021 18:30:00 +0000</pubDate>
-      
-      <guid>/event/</guid>
       <description></description>
     </item>
     
