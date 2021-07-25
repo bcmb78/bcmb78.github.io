@@ -17,15 +17,22 @@
   </url>
   
   <url>
-    <loc>/event/vacances/</loc>
-    <lastmod>2021-07-11T22:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2021-07-25T09:18:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-07-09T14:53:02+00:00</lastmod>
+    <loc>/post/le-pass-sanitaire-dans-le-sport/</loc>
+    <lastmod>2021-07-25T09:18:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/vacances/</loc>
+    <lastmod>2021-07-11T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
