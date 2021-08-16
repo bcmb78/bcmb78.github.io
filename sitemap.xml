@@ -24,6 +24,13 @@
   </url>
   
   <url>
+    <loc>/event/jeu-libre-1708/</loc>
+    <lastmod>2021-08-17T17:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu-libre-1/</loc>
     <lastmod>2021-08-16T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
