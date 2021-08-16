@@ -27,6 +27,20 @@
     , 
     {
         "title": "Jeu libre",
+        "start": "2021-08-20T00:00:00",
+		"end": "2021-08-20T08:00:00",
+        "url": "/event/jeu-libre-2/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
         "start": "2021-08-19T00:00:00",
 		"end": "2021-08-19T08:00:00",
         "url": "/event/jeu-libre-1908/",
