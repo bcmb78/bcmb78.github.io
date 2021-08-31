@@ -2,6 +2,216 @@
     
     
     {
+        "title": "Jeu libre",
+        "start": "2022-06-26T00:00:00",
+		"end": "2022-06-26T08:00:00",
+        "url": "/event/jeu_libre_2022-06-26/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-06-11T00:00:00",
+		"end": "2022-06-11T08:00:00",
+        "url": "/event/jeu_libre_2022-06-11/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-05-22T00:00:00",
+		"end": "2022-05-22T08:00:00",
+        "url": "/event/jeu_libre_2022-05-22/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-05-14T00:00:00",
+		"end": "2022-05-14T08:00:00",
+        "url": "/event/jeu_libre_2022-05-14/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-04-17T00:00:00",
+		"end": "2022-04-17T08:00:00",
+        "url": "/event/jeu_libre_2022-04-17/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-04-09T00:00:00",
+		"end": "2022-04-09T08:00:00",
+        "url": "/event/jeu_libre_2022-04-09/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-03-27T00:00:00",
+		"end": "2022-03-27T08:00:00",
+        "url": "/event/jeu_libre_2022-03-27/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-03-12T00:00:00",
+		"end": "2022-03-12T08:00:00",
+        "url": "/event/jeu_libre_2022-03-12/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-02-13T00:00:00",
+		"end": "2022-02-13T08:00:00",
+        "url": "/event/jeu_libre_2022-02-13/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-02-05T00:00:00",
+		"end": "2022-02-05T08:00:00",
+        "url": "/event/jeu_libre_2022-02-05/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-01-23T00:00:00",
+		"end": "2022-01-23T08:00:00",
+        "url": "/event/jeu_libre_2022-01-23/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2022-01-08T00:00:00",
+		"end": "2022-01-08T08:00:00",
+        "url": "/event/jeu_libre_2022-01-08/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-12-12T00:00:00",
+		"end": "2021-12-12T08:00:00",
+        "url": "/event/jeu_libre_2021-12-12/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-11-27T00:00:00",
+		"end": "2021-11-27T08:00:00",
+        "url": "/event/jeu_libre_2021-11-27/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-11-14T00:00:00",
+		"end": "2021-11-14T08:00:00",
+        "url": "/event/jeu_libre_2021-11-14/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
         "title": "Sky'Bad 13",
         "start": "2021-11-06T00:00:00",
 		"end": "2021-11-07T08:00:00",
@@ -9,6 +219,48 @@
 		
 
 		"color":  "#28b463" 
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-10-16T00:00:00",
+		"end": "2021-10-16T08:00:00",
+        "url": "/event/jeu_libre_2021-10-16/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-10-03T00:00:00",
+		"end": "2021-10-03T08:00:00",
+        "url": "/event/jeu_libre_2021-10-03/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-09-18T00:00:00",
+		"end": "2021-09-18T08:00:00",
+        "url": "/event/jeu_libre_2021-09-18/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
 		
     }
     
