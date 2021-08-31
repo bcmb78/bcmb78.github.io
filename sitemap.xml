@@ -791,13 +791,13 @@
   </url>
   
   <url>
-    <loc>/404/</loc>
+    <loc>/skybad/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/skybad/</loc>
+    <loc>/404/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
