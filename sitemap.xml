@@ -143,6 +143,13 @@
   </url>
   
   <url>
+    <loc>/event/challenge-poussins/</loc>
+    <lastmod>2021-11-28T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/regional_2021-11-20/</loc>
     <lastmod>2021-11-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -164,6 +171,20 @@
   </url>
   
   <url>
+    <loc>/event/reunion-capitaines-interclubs-2/</loc>
+    <lastmod>2021-10-21T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/reunion-capitaines-interclubs/</loc>
+    <lastmod>2021-10-19T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu_libre_2021-10-16/</loc>
     <lastmod>2021-10-16T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -180,6 +201,13 @@
   <url>
     <loc>/event/jeu_libre_2021-09-18/</loc>
     <lastmod>2021-09-18T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/reunion-responsables-jeunes/</loc>
+    <lastmod>2021-09-14T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
