@@ -364,6 +364,20 @@
     
     , 
     {
+        "title": "Tournée des Drapeaux Paris 2024",
+        "start": "2021-09-18T00:00:00",
+		"end": "2021-09-18T08:00:00",
+        "url": "/event/tournee-des-drapeaux-paris-2024/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#d68910" 
+		
+    }
+    
+    , 
+    {
         "title": "Jeu libre",
         "start": "2021-09-18T00:00:00",
 		"end": "2021-09-18T08:00:00",
