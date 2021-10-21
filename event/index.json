@@ -406,6 +406,20 @@
     
     , 
     {
+        "title": "Stage Toussaint",
+        "start": "2021-10-25T00:00:00",
+		"end": "2021-10-25T08:00:00",
+        "url": "/event/stage-toussaint/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
         "title": "Réunion Capitaines Interclubs",
         "start": "2021-10-21T00:00:00",
 		"end": "2021-10-21T08:00:00",
