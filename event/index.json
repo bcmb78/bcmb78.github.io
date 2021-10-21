@@ -364,6 +364,20 @@
     
     , 
     {
+        "title": "Stage Toussaint",
+        "start": "2021-10-28T00:00:00",
+		"end": "2021-10-28T08:00:00",
+        "url": "/event/stage-toussaint-3/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
         "title": "Jeu libre",
         "start": "2021-10-27T00:00:00",
 		"end": "2021-10-27T08:00:00",
