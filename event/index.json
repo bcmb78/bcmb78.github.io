@@ -308,6 +308,104 @@
     
     , 
     {
+        "title": "Jeu libre",
+        "start": "2021-11-04T00:00:00",
+		"end": "2021-11-04T08:00:00",
+        "url": "/event/jeu_libre_2021-11-04/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-11-03T00:00:00",
+		"end": "2021-11-03T08:00:00",
+        "url": "/event/jeu_libre_2021-11-03/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-10-29T00:00:00",
+		"end": "2021-10-29T08:00:00",
+        "url": "/event/jeu_libre_2021-10-29/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-10-28T00:00:00",
+		"end": "2021-10-28T08:00:00",
+        "url": "/event/jeu_libre_2021-10-28/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-10-27T00:00:00",
+		"end": "2021-10-27T08:00:00",
+        "url": "/event/jeu_libre_2021-10-27/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-10-26T00:00:00",
+		"end": "2021-10-26T08:00:00",
+        "url": "/event/jeu_libre_2021-10-26/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
+        "title": "Jeu libre",
+        "start": "2021-10-25T00:00:00",
+		"end": "2021-10-25T08:00:00",
+        "url": "/event/jeu_libre_2021-10-25/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+		
+    }
+    
+    , 
+    {
         "title": "Réunion Capitaines Interclubs",
         "start": "2021-10-21T00:00:00",
 		"end": "2021-10-21T08:00:00",
