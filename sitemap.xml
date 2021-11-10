@@ -724,6 +724,13 @@
   </url>
   
   <url>
+    <loc>/developpement_durable/</loc>
+    <lastmod>2020-09-01T14:08:15+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/creneau-supplementaire/</loc>
     <lastmod>2020-08-31T14:32:28+00:00</lastmod>
     <changefreq>monthly</changefreq>
