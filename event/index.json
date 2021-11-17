@@ -256,6 +256,18 @@
     
     , 
     {
+        "title": "Trophée  Jeunes",
+        "start": "2021-12-04T00:00:00",
+		"end": "2021-12-05T08:00:00",
+        "url": "/event/trophee-jeunes/",
+		
+
+		"color":  "#000000" 
+		
+    }
+    
+    , 
+    {
         "title": "Challenge Poussins",
         "start": "2021-11-28T00:00:00",
 		"end": "2021-11-28T08:00:00",
