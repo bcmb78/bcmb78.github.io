@@ -717,14 +717,14 @@
   </url>
   
   <url>
-    <loc>/covid/</loc>
+    <loc>/developpement_durable/</loc>
     <lastmod>2020-09-01T14:08:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/developpement_durable/</loc>
+    <loc>/covid/</loc>
     <lastmod>2020-09-01T14:08:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
