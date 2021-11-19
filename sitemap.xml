@@ -157,6 +157,13 @@
   </url>
   
   <url>
+    <loc>/event/plateau-minibad/</loc>
+    <lastmod>2021-11-27T07:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/regional_2021-11-20/</loc>
     <lastmod>2021-11-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>

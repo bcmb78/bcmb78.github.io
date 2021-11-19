@@ -282,6 +282,20 @@
     
     , 
     {
+        "title": "Plateau MiniBad",
+        "start": "2021-11-27T00:00:00",
+		"end": "2021-11-27T08:00:00",
+        "url": "/event/plateau-minibad/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#cb4335"
+		
+    }
+    
+    , 
+    {
         "title": "ICR",
         "start": "2021-11-20T00:00:00",
 		"end": "2021-11-21T08:00:00",
