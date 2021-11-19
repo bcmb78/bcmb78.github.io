@@ -310,6 +310,20 @@
     
     , 
     {
+        "title": "ICR J1 Equipe 2",
+        "start": "2021-11-21T00:00:00",
+		"end": "2021-11-21T08:00:00",
+        "url": "/event/icr-j1-equipe-2/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#f1c40f"	
+		
+    }
+    
+    , 
+    {
         "title": "Jeu libre",
         "start": "2021-11-14T00:00:00",
 		"end": "2021-11-14T08:00:00",

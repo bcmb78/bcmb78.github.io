@@ -171,6 +171,13 @@
   </url>
   
   <url>
+    <loc>/event/icr-j1-equipe-2/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2021-11-15T08:04:49+00:00</lastmod>
     <changefreq>monthly</changefreq>
