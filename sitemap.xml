@@ -164,6 +164,20 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2021-11-22T08:30:55+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/interclub-regionaux-j1/</loc>
+    <lastmod>2021-11-22T08:30:55+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/regional_2021-11-20/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -173,13 +187,6 @@
   <url>
     <loc>/event/icr-j1-equipe-2/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-15T08:04:49+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
