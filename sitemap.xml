@@ -178,15 +178,15 @@
   </url>
   
   <url>
-    <loc>/event/plateau-minibad/</loc>
-    <lastmod>2021-11-27T07:00:00+00:00</lastmod>
+    <loc>/resultat/icd_2122_j02/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/interclub-departementaux/</loc>
-    <lastmod>2021-11-22T13:12:17+00:00</lastmod>
+    <loc>/event/plateau-minibad/</loc>
+    <lastmod>2021-11-27T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -213,7 +213,14 @@
   </url>
   
   <url>
-    <loc>/post/championnat-de-france-veterans/</loc>
+    <loc>/resultat/icd_2122_j01/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/resultat/championnat-de-france-veterans/</loc>
     <lastmod>2021-11-15T08:04:49+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -348,13 +355,6 @@
   <url>
     <loc>/event/jeu_libre_2021-10-16/</loc>
     <lastmod>2021-10-16T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/trophee-jeunes-j1/</loc>
-    <lastmod>2021-10-03T18:22:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -872,20 +872,6 @@
   
   <url>
     <loc>/resultat/resume-j12/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/resultat/icd_2122_j01/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/resultat/icd_2122_j02/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
