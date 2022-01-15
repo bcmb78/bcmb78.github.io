@@ -204,7 +204,7 @@
     
     , 
     {
-        "title": "Tournoi de la galette",
+        "title": "Jeu libre",
         "start": "2022-01-15T00:00:00",
 		"end": "2022-01-15T08:00:00",
         "url": "/event/tournoi-de-la-galette/",
@@ -212,8 +212,8 @@
 		"allDay": "true",
 		
 
-		"color":  "#cb4335"
-		
+		"color":  "#2b1899"
+        
     }
     
     , 
