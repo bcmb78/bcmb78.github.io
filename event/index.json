@@ -151,6 +151,20 @@
     , 
     {
         "title": "Maréchal 19h / 22h Tous les adultes",
+        "start": "2022-02-24T00:00:00",
+		"end": "2022-02-24T08:00:00",
+        "url": "/event/marechal-19h-22h-tous-les-adultes-1/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": "Maréchal 19h / 22h Tous les adultes",
         "start": "2022-02-23T00:00:00",
 		"end": "2022-02-23T08:00:00",
         "url": "/event/marechal-19h-22h-tous-les-adultes/",
