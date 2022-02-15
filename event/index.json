@@ -150,10 +150,10 @@
     
     , 
     {
-        "title": "Maréchal 19h / 22h Tous les adultes",
-        "start": "2022-02-24T00:00:00",
-		"end": "2022-02-24T08:00:00",
-        "url": "/event/marechal-19h-22h-tous-les-adultes-1/",
+        "title": "Rivière 19h / 22h Tous les adultes",
+        "start": "2022-02-25T00:00:00",
+		"end": "2022-02-25T08:00:00",
+        "url": "/event/riviere-19h-22h-tous-les-adultes/",
 		
 		"allDay": "true",
 		
@@ -164,10 +164,10 @@
     
     , 
     {
-        "title": "Rivière 19h / 22h Tous les adultes",
+        "title": "Maréchal 19h / 22h Tous les adultes",
         "start": "2022-02-24T00:00:00",
 		"end": "2022-02-24T08:00:00",
-        "url": "/event/riviere-19h-22h-tous-les-adultes/",
+        "url": "/event/marechal-19h-22h-tous-les-adultes-1/",
 		
 		"allDay": "true",
 		
