@@ -150,6 +150,20 @@
     
     , 
     {
+        "title": "Rivière 19h / 22h C1",
+        "start": "2022-02-28T00:00:00",
+		"end": "2022-02-28T08:00:00",
+        "url": "/event/riviere-19h-22h-c1/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
         "title": "Rivière 19h / 22h Tous les adultes",
         "start": "2022-02-25T00:00:00",
 		"end": "2022-02-25T08:00:00",
