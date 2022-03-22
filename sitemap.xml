@@ -73,6 +73,13 @@
   </url>
   
   <url>
+    <loc>/resultat/interclub-departementaux-j12/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/regional_2022-03-19/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
