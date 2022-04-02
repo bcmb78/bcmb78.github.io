@@ -73,6 +73,13 @@
   </url>
   
   <url>
+    <loc>/resultat/trophees-jeunes-doubles-1/</loc>
+    <lastmod>2022-03-27T04:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/interclub-departementaux-j12/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
