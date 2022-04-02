@@ -66,6 +66,13 @@
   </url>
   
   <url>
+    <loc>/resultat/interclub-departementaux-j13/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/tournoi-d-elancourt/</loc>
     <lastmod>2022-03-27T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
