@@ -17,20 +17,6 @@
     , 
     {
         "title": "Jeu libre",
-        "start": "2022-06-11T00:00:00",
-		"end": "2022-06-11T08:00:00",
-        "url": "/event/jeu_libre_2022-06-11/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-        
-    }
-    
-    , 
-    {
-        "title": "Jeu libre",
         "start": "2022-05-22T00:00:00",
 		"end": "2022-05-22T08:00:00",
         "url": "/event/jeu_libre_2022-05-22/",
@@ -66,34 +52,6 @@
 
 		"color":  "#f1c40f"	
 		
-    }
-    
-    , 
-    {
-        "title": "Jeu libre",
-        "start": "2022-04-17T00:00:00",
-		"end": "2022-04-17T08:00:00",
-        "url": "/event/jeu_libre_2022-04-17/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-        
-    }
-    
-    , 
-    {
-        "title": "Jeu libre",
-        "start": "2022-04-09T00:00:00",
-		"end": "2022-04-09T08:00:00",
-        "url": "/event/jeu_libre_2022-04-09/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-        
     }
     
     , 

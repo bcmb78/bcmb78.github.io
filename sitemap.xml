@@ -17,13 +17,6 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-06-11/</loc>
-    <lastmod>2022-06-11T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/event/jeu_libre_2022-05-22/</loc>
     <lastmod>2022-05-22T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -40,20 +33,6 @@
   <url>
     <loc>/event/regional_2022-04-23/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/event/jeu_libre_2022-04-17/</loc>
-    <lastmod>2022-04-17T07:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/event/jeu_libre_2022-04-09/</loc>
-    <lastmod>2022-04-09T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
