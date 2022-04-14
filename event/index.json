@@ -44,6 +44,90 @@
     
     , 
     {
+        "title": "Maréchal 19h / 22h Tous les adultes",
+        "start": "2022-05-06T00:00:00",
+		"end": "2022-05-06T08:00:00",
+        "url": "/event/20220506_creneau_vacances/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": "Maréchal 19h / 22h Tous les adultes",
+        "start": "2022-05-04T00:00:00",
+		"end": "2022-05-04T08:00:00",
+        "url": "/event/20220504_creneau_vacances/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": "Maréchal 19h / 22h Tous les adultes",
+        "start": "2022-05-02T00:00:00",
+		"end": "2022-05-02T08:00:00",
+        "url": "/event/20220502_creneau_vacances/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": "Maréchal 19h / 22h Tous les adultes",
+        "start": "2022-04-29T00:00:00",
+		"end": "2022-04-29T08:00:00",
+        "url": "/event/20220429_creneau_vacances/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": "Maréchal 19h / 22h Tous les adultes",
+        "start": "2022-04-27T00:00:00",
+		"end": "2022-04-27T08:00:00",
+        "url": "/event/20220427_creneau_vacances/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": "Maréchal 19h / 22h Tous les adultes",
+        "start": "2022-04-25T00:00:00",
+		"end": "2022-04-25T08:00:00",
+        "url": "/event/20220425_creneau_vacances/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
         "title": "ICR",
         "start": "2022-04-23T00:00:00",
 		"end": "2022-04-24T08:00:00",
