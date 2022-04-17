@@ -100,6 +100,62 @@
     
     , 
     {
+        "title": "Stage Jeunes Compet 14h-17h",
+        "start": "2022-04-29T00:00:00",
+		"end": "2022-04-29T08:00:00",
+        "url": "/event/20220429_stage_jeunes_c/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
+        "title": "Stage Jeunes Loisir 10h-13h",
+        "start": "2022-04-29T00:00:00",
+		"end": "2022-04-29T08:00:00",
+        "url": "/event/20220429_stage_jeunes_l/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
+        "title": "Stage Jeunes Compet 14h-17h",
+        "start": "2022-04-28T00:00:00",
+		"end": "2022-04-28T08:00:00",
+        "url": "/event/20220428_stage_jeunes_c/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
+        "title": "Stage Jeunes Loisir 10h-13h",
+        "start": "2022-04-28T00:00:00",
+		"end": "2022-04-28T08:00:00",
+        "url": "/event/20220428_stage_jeunes_l/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
         "title": "Maréchal 19h / 22h Tous les adultes",
         "start": "2022-04-27T00:00:00",
 		"end": "2022-04-27T08:00:00",
@@ -110,6 +166,34 @@
 
 		"color":  "#2b1899"
         
+    }
+    
+    , 
+    {
+        "title": "Stage Jeunes Compet 14h-17h",
+        "start": "2022-04-26T00:00:00",
+		"end": "2022-04-26T08:00:00",
+        "url": "/event/20220426_stage_jeunes_c/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
+        "title": "Stage Jeunes Loisir 10h-13h",
+        "start": "2022-04-26T00:00:00",
+		"end": "2022-04-26T08:00:00",
+        "url": "/event/20220426_stage_jeunes_l/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
     }
     
     , 
@@ -128,22 +212,40 @@
     
     , 
     {
-        "title": "ICR",
-        "start": "2022-04-23T00:00:00",
-		"end": "2022-04-24T08:00:00",
-        "url": "/event/regional_2022-04-23/",
+        "title": "Stage Jeunes Compet 14h-17h",
+        "start": "2022-04-25T00:00:00",
+		"end": "2022-04-25T08:00:00",
+        "url": "/event/20220425_stage_jeunes_c/",
+		
+		"allDay": "true",
 		
 
-		"color":  "#f1c40f"	
+		"color":   "#8910d6" 
 		
     }
     
     , 
     {
-        "title": "ICR",
-        "start": "2022-04-02T00:00:00",
-		"end": "2022-04-03T08:00:00",
-        "url": "/event/regional_2022-04-02/",
+        "title": "Stage Jeunes Loisir 10h-13h",
+        "start": "2022-04-25T00:00:00",
+		"end": "2022-04-25T08:00:00",
+        "url": "/event/20220425_stage_jeunes_l/",
+		
+		"allDay": "true",
+		
+
+		"color":   "#8910d6" 
+		
+    }
+    
+    , 
+    {
+        "title": "ICR - Phases finales",
+        "start": "2022-04-24T00:00:00",
+		"end": "2022-04-24T08:00:00",
+        "url": "/event/20220423_icr_phases_finales/",
+		
+		"allDay": "true",
 		
 
 		"color":  "#f1c40f"	

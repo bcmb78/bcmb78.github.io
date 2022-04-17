@@ -59,8 +59,50 @@
   </url>
   
   <url>
+    <loc>/event/20220429_stage_jeunes_c/</loc>
+    <lastmod>2022-04-29T15:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/20220429_stage_jeunes_l/</loc>
+    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/20220428_stage_jeunes_c/</loc>
+    <lastmod>2022-04-28T15:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/20220428_stage_jeunes_l/</loc>
+    <lastmod>2022-04-28T09:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/20220427_creneau_vacances/</loc>
     <lastmod>2022-04-27T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/20220426_stage_jeunes_c/</loc>
+    <lastmod>2022-04-26T15:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/20220426_stage_jeunes_l/</loc>
+    <lastmod>2022-04-26T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -73,8 +115,22 @@
   </url>
   
   <url>
-    <loc>/event/regional_2022-04-23/</loc>
-    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+    <loc>/event/20220425_stage_jeunes_c/</loc>
+    <lastmod>2022-04-25T15:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/20220425_stage_jeunes_l/</loc>
+    <lastmod>2022-04-25T09:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/20220423_icr_phases_finales/</loc>
+    <lastmod>2022-04-24T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -103,13 +159,6 @@
   <url>
     <loc>/newsletter/interclubs-veterans/</loc>
     <lastmod>2022-04-02T23:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/event/regional_2022-04-02/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
