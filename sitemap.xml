@@ -136,6 +136,13 @@
   </url>
   
   <url>
+    <loc>/newsletter/vacances-de-printemps/</loc>
+    <lastmod>2022-04-16T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/departementaux-de-doubles/</loc>
     <lastmod>2022-04-09T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
