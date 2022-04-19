@@ -136,6 +136,20 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2022-04-19T07:14:11+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/vacances-de-printemps/</loc>
+    <lastmod>2022-04-19T07:14:11+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/newsletter/vacances-de-printemps/</loc>
     <lastmod>2022-04-16T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -397,13 +411,6 @@
   <url>
     <loc>/event/regional_2022-01-08/</loc>
     <lastmod>2022-01-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-12-22T09:54:02+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
