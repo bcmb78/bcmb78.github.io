@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/newsletter/creneau-jeu-libre/</loc>
+    <lastmod>2022-05-12T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/20220506_creneau_vacances/</loc>
     <lastmod>2022-05-06T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
