@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>/resultat/coupe-des-yvelines/</loc>
+    <lastmod>2022-06-12T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu_libre_2022-05-22/</loc>
     <lastmod>2022-05-22T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
