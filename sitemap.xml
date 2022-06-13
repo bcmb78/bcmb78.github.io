@@ -24,6 +24,20 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2022-06-10T12:23:05+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/soiree-parents-enfants/</loc>
+    <lastmod>2022-06-10T12:23:05+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu_libre_2022-05-22/</loc>
     <lastmod>2022-05-22T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -173,13 +187,6 @@
   <url>
     <loc>/resultat/icr-play-offs/</loc>
     <lastmod>2022-04-23T23:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2022-04-19T08:10:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
