@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>/resultat/coupe-des-yvelines-jeunes/</loc>
+    <lastmod>2022-06-19T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/tournoi-de-chatillon/</loc>
     <lastmod>2022-06-18T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
