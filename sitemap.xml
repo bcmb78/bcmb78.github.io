@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>/event/jeu-libre-19h-22h-1/</loc>
+    <lastmod>2022-08-22T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/newsletter/reinscription-jeunes/</loc>
     <lastmod>2022-07-17T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
