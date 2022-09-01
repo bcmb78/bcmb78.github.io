@@ -38,6 +38,13 @@
   </url>
   
   <url>
+    <loc>/newsletter/informations-de-rentree/</loc>
+    <lastmod>2022-08-31T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu-libre-31-08-2022/</loc>
     <lastmod>2022-08-31T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
