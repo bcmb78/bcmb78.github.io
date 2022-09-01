@@ -24,6 +24,20 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2022-09-01T09:07:14+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/championnat-d-europe-veteran/</loc>
+    <lastmod>2022-09-01T09:07:14+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu-libre-31-08-2022/</loc>
     <lastmod>2022-08-31T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -117,13 +131,6 @@
   <url>
     <loc>/newsletter/informartion-fin-de-saison/</loc>
     <lastmod>2022-06-23T22:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2022-06-21T14:56:31+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
