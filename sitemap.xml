@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>/newsletter/recyclage-des-volants/</loc>
+    <lastmod>2022-09-19T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/newsletter/rappel-jeu-libre/</loc>
     <lastmod>2022-09-16T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
