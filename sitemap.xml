@@ -164,13 +164,6 @@
   </url>
   
   <url>
-    <loc>/event/jeu-libre-01-09-2022/</loc>
-    <lastmod>2022-09-01T18:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2022-09-01T09:07:14+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -222,13 +215,6 @@
   <url>
     <loc>/event/jeu-libre-24-08-2022/</loc>
     <lastmod>2022-08-24T18:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/event/jeu-libre-19h-22h-1/</loc>
-    <lastmod>2022-08-22T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

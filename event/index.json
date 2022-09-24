@@ -2,11 +2,13 @@
     
     
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2023-06-25T00:00:00",
-		"end": "2023-06-26T08:00:00",
+		"end": "2023-06-25T08:00:00",
         "url": "/event/jeu_libre_2023-06-25/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -14,11 +16,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2023-06-10T00:00:00",
-		"end": "2023-06-11T08:00:00",
+		"end": "2023-06-10T08:00:00",
         "url": "/event/jeu_libre_2023-06-10/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -26,11 +30,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2023-05-21T00:00:00",
-		"end": "2023-05-22T08:00:00",
+		"end": "2023-05-21T08:00:00",
         "url": "/event/jeu_libre_2023-05-21/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -38,11 +44,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2023-05-13T00:00:00",
-		"end": "2023-05-14T08:00:00",
+		"end": "2023-05-13T08:00:00",
         "url": "/event/jeu_libre_2023-05-13/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -50,11 +58,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2023-04-16T00:00:00",
-		"end": "2023-04-17T08:00:00",
+		"end": "2023-04-16T08:00:00",
         "url": "/event/jeu_libre_2023-04-16/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -62,11 +72,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2023-04-08T00:00:00",
-		"end": "2023-04-09T08:00:00",
+		"end": "2023-04-08T08:00:00",
         "url": "/event/jeu_libre_2023-04-08/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -74,11 +86,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2023-03-26T00:00:00",
-		"end": "2023-03-27T08:00:00",
+		"end": "2023-03-26T08:00:00",
         "url": "/event/jeu_libre_2023-03-26/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -86,11 +100,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2023-03-11T00:00:00",
-		"end": "2023-03-12T08:00:00",
+		"end": "2023-03-11T08:00:00",
         "url": "/event/jeu_libre_2023-03-11/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -98,11 +114,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2023-02-26T00:00:00",
-		"end": "2023-02-27T08:00:00",
+		"end": "2023-02-26T08:00:00",
         "url": "/event/jeu_libre_2023-02-26/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -110,11 +128,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2023-02-04T00:00:00",
-		"end": "2023-02-05T08:00:00",
+		"end": "2023-02-04T08:00:00",
         "url": "/event/jeu_libre_2023-02-04/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -122,22 +142,12 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2023-01-22T00:00:00",
-		"end": "2023-01-23T08:00:00",
+		"end": "2023-01-22T08:00:00",
         "url": "/event/jeu_libre_2023-01-22/",
 		
-
-		"color":  "#2b1899"
-        
-    }
-    
-    , 
-    {
-        "title": " Jeu libre ",
-        "start": "2023-01-07T00:00:00",
-		"end": "2023-01-08T08:00:00",
-        "url": "/event/jeu_libre_2023-01-07/",
+		"allDay": "true",
 		
 
 		"color":  "#2b1899"
@@ -146,10 +156,26 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
+        "start": "2023-01-07T00:00:00",
+		"end": "2023-01-07T08:00:00",
+        "url": "/event/jeu_libre_2023-01-07/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2022-12-11T00:00:00",
-		"end": "2022-12-12T08:00:00",
+		"end": "2022-12-11T08:00:00",
         "url": "/event/jeu_libre_2022-12-11/",
+		
+		"allDay": "true",
 		
 
 		"color":  "#2b1899"
@@ -170,11 +196,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2022-11-19T00:00:00",
-		"end": "2022-11-20T08:00:00",
+		"end": "2022-11-19T08:00:00",
         "url": "/event/jeu_libre_2022-11-19/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -182,11 +210,13 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2022-11-13T00:00:00",
-		"end": "2022-11-14T08:00:00",
+		"end": "2022-11-13T08:00:00",
         "url": "/event/jeu_libre_2022-11-13/",
 		
+		"allDay": "true",
+		
 
 		"color":  "#2b1899"
         
@@ -194,22 +224,12 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2022-10-15T00:00:00",
-		"end": "2022-10-16T08:00:00",
+		"end": "2022-10-15T08:00:00",
         "url": "/event/jeu_libre_2022-10-15/",
 		
-
-		"color":  "#2b1899"
-        
-    }
-    
-    , 
-    {
-        "title": " Jeu libre ",
-        "start": "2022-10-02T00:00:00",
-		"end": "2022-10-03T08:00:00",
-        "url": "/event/jeu_libre_2022-10-02/",
+		"allDay": "true",
 		
 
 		"color":  "#2b1899"
@@ -218,10 +238,26 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre 9h-12h Maréchal ",
+        "start": "2022-10-02T00:00:00",
+		"end": "2022-10-02T08:00:00",
+        "url": "/event/jeu_libre_2022-10-02/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2022-09-17T00:00:00",
-		"end": "2022-09-18T08:00:00",
+		"end": "2022-09-17T08:00:00",
         "url": "/event/jeu_libre_2022-09-17/",
+		
+		"allDay": "true",
 		
 
 		"color":  "#2b1899"
@@ -233,21 +269,9 @@
         "title": " Jeu libre 19h-22h Maréchal ",
         "start": "2022-09-01T00:00:00",
 		"end": "2022-09-01T08:00:00",
-        "url": "/event/jeu-libre-01-09-2022/",
+        "url": "/event/jeu_libre_2022-09-01/",
 		
 		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-        
-    }
-    
-    , 
-    {
-        "title": " Jeu libre ",
-        "start": "2022-09-01T00:00:00",
-		"end": "2022-09-02T08:00:00",
-        "url": "/event/jeu_libre_2022-09-01/",
 		
 
 		"color":  "#2b1899"
@@ -312,20 +336,6 @@
     
     , 
     {
-        "title": " Jeu libre 19h-22h Maréchal  ",
-        "start": "2022-08-22T00:00:00",
-		"end": "2022-08-22T08:00:00",
-        "url": "/event/jeu-libre-19h-22h-1/",
-		
-		"allDay": "true",
-		
-
-		"color":  "#2b1899"
-        
-    }
-    
-    , 
-    {
         "title": " Jeu libre 19h-22h ",
         "start": "2022-07-01T00:00:00",
 		"end": "2022-07-01T08:00:00",
@@ -368,7 +378,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-06-26T00:00:00",
 		"end": "2022-06-26T08:00:00",
         "url": "/event/jeu_libre_2022-06-26/",
@@ -396,7 +406,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-06-11T00:00:00",
 		"end": "2022-06-11T08:00:00",
         "url": "/event/jeu_libre_2022-06-11/",
@@ -424,7 +434,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-05-22T00:00:00",
 		"end": "2022-05-22T08:00:00",
         "url": "/event/jeu_libre_2022-05-22/",
@@ -438,7 +448,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-05-14T00:00:00",
 		"end": "2022-05-14T08:00:00",
         "url": "/event/jeu_libre_2022-05-14/",
@@ -662,7 +672,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-04-17T00:00:00",
 		"end": "2022-04-17T08:00:00",
         "url": "/event/jeu_libre_2022-04-17/",
@@ -676,7 +686,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-04-09T00:00:00",
 		"end": "2022-04-09T08:00:00",
         "url": "/event/jeu_libre_2022-04-09/",
@@ -690,7 +700,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-03-27T00:00:00",
 		"end": "2022-03-27T08:00:00",
         "url": "/event/jeu_libre_2022-03-27/",
@@ -716,7 +726,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-03-12T00:00:00",
 		"end": "2022-03-12T08:00:00",
         "url": "/event/jeu_libre_2022-03-12/",
@@ -828,7 +838,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-02-13T00:00:00",
 		"end": "2022-02-13T08:00:00",
         "url": "/event/jeu_libre_2022-02-13/",
@@ -842,7 +852,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-02-05T00:00:00",
 		"end": "2022-02-05T08:00:00",
         "url": "/event/jeu_libre_2022-02-05/",
@@ -868,7 +878,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-01-23T00:00:00",
 		"end": "2022-01-23T08:00:00",
         "url": "/event/jeu_libre_2022-01-23/",
@@ -896,7 +906,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2022-01-08T00:00:00",
 		"end": "2022-01-08T08:00:00",
         "url": "/event/jeu_libre_2022-01-08/",
@@ -922,7 +932,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2021-12-12T00:00:00",
 		"end": "2021-12-12T08:00:00",
         "url": "/event/jeu_libre_2021-12-12/",
@@ -974,7 +984,7 @@
     
     , 
     {
-        "title": " Jeu libre 14h-17h Maréchal ",
+        "title": " Jeu libre  ",
         "start": "2021-11-27T00:00:00",
 		"end": "2021-11-27T08:00:00",
         "url": "/event/jeu_libre_2021-11-27/",
@@ -1030,7 +1040,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2021-11-14T00:00:00",
 		"end": "2021-11-14T08:00:00",
         "url": "/event/jeu_libre_2021-11-14/",
@@ -1238,7 +1248,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2021-10-16T00:00:00",
 		"end": "2021-10-16T08:00:00",
         "url": "/event/jeu_libre_2021-10-16/",
@@ -1252,7 +1262,7 @@
     
     , 
     {
-        "title": " Jeu libre ",
+        "title": " Jeu libre  ",
         "start": "2021-10-03T00:00:00",
 		"end": "2021-10-03T08:00:00",
         "url": "/event/jeu_libre_2021-10-03/",
