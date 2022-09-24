@@ -193,7 +193,6 @@
 
 	<link rel="stylesheet" href=/fullcalendar/main.css rel="stylesheet" />
 	<script src=/fullcalendar/main.js></script>
-    <script type='text/javascript' src=/fullcalendar/gcal.js></script>
 <script>
 
   document.addEventListener('DOMContentLoaded', function() {
@@ -205,30 +204,7 @@
 	  displayEventTime: false, 
 	  locale: 'fr',
 	  height: 'auto',
-      googleCalendarApiKey: 'AIzaSyAIa6yjpcDvcg61ROfRaijI8yzJ75wylNg',
-      eventSources: [
-      
-      {
-      
-        googleCalendarId: 'emu2l6elf7an03fa92iccuf72g@group.calendar.google.com',
-
-        backgroundColor: '#2b1899',
-
-      },
-      {
-      
-        googleCalendarId: 'kj6ejiubb5a901ui8h0dgguvfg@group.calendar.google.com',
-        backgroundColor: "#28b463",
-
-      },
-      {
-      
-        googleCalendarId: 'j9i4pamc7768h0a9gndf2ib62o@group.calendar.google.com',
-        backgroundColor: '#cb4335',
-
-      },
-    ],
-
+      events: "/event/index.json",	  
 	  headerToolbar: {
 		  start: 'title', 
 		  center: '',
