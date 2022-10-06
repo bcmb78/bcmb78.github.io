@@ -129,6 +129,13 @@
   </url>
   
   <url>
+    <loc>/event/vendredi-28-octobre-jeu-libre/</loc>
+    <lastmod>2022-10-28T17:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/mercredi-26-octobre-jeu-libre/</loc>
     <lastmod>2022-10-26T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
