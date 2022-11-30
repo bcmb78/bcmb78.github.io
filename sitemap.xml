@@ -115,6 +115,13 @@
   </url>
   
   <url>
+    <loc>/resultat/resultats-sky-bad-14/</loc>
+    <lastmod>2022-11-24T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu_libre_2022-11-19/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
