@@ -108,6 +108,13 @@
   </url>
   
   <url>
+    <loc>/resultat/resultat-jeunes-et-veterans/</loc>
+    <lastmod>2022-12-02T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/j3-comite-78/</loc>
     <lastmod>2022-11-27T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
