@@ -311,6 +311,13 @@
   </url>
   
   <url>
+    <loc>/newsletter/vacance-hiver/</loc>
+    <lastmod>2022-10-08T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/newsletter/rectificatif-vacances-de-la-toussaint/</loc>
     <lastmod>2022-10-08T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
