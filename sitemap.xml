@@ -87,6 +87,13 @@
   </url>
   
   <url>
+    <loc>/resultat/j4-r2-equipe-1/</loc>
+    <lastmod>2023-02-10T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/plateau-minibad-poussins/</loc>
     <lastmod>2023-02-08T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
