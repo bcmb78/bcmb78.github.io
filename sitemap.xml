@@ -59,6 +59,13 @@
   </url>
   
   <url>
+    <loc>/newsletter/resulats-saison-2022-2023/</loc>
+    <lastmod>2023-03-21T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/newsletter/finale-top-12/</loc>
     <lastmod>2023-03-15T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
