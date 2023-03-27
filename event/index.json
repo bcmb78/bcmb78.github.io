@@ -72,6 +72,20 @@
     
     , 
     {
+        "title": " Jeu libre 20h30 -22h30 Maréchal ",
+        "start": "2023-04-14T00:00:00",
+		"end": "2023-04-14T08:00:00",
+        "url": "/event/jeu-libre-2023-04-14t00-00-00z/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
         "title": " Jeu libre 14h-17h Maréchal ",
         "start": "2023-04-08T00:00:00",
 		"end": "2023-04-08T08:00:00",
