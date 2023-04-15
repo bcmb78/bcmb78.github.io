@@ -45,6 +45,20 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2023-04-15T07:14:11+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/vacances-de-printemps-2023/</loc>
+    <lastmod>2023-04-15T07:14:11+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/jeu-libre-2023-04-14t00-00-00z/</loc>
     <lastmod>2023-04-14T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -61,6 +75,13 @@
   <url>
     <loc>/event/jeu-libre-2023-04-07t00-00-00z/</loc>
     <lastmod>2023-04-07T18:30:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/resultat/resultats-des-differents-tournois/</loc>
+    <lastmod>2023-04-03T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -320,13 +341,6 @@
   <url>
     <loc>/resultat/resume-de-la-j1-du-comite-78/</loc>
     <lastmod>2022-10-20T22:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2022-10-17T15:12:32+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
