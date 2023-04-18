@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/event/</loc>
+    <loc>/event-copie/</loc>
     <lastmod>2023-06-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-06-25/</loc>
+    <loc>/event-copie/jeu_libre_2023-06-25/</loc>
     <lastmod>2023-06-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-06-10/</loc>
+    <loc>/event-copie/jeu_libre_2023-06-10/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-05-21/</loc>
+    <loc>/event-copie/jeu_libre_2023-05-21/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-05-13/</loc>
+    <loc>/event-copie/jeu_libre_2023-05-13/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-04-16/</loc>
+    <loc>/event-copie/jeu_libre_2023-04-16/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,21 +59,21 @@
   </url>
   
   <url>
-    <loc>/event/jeu-libre-2023-04-14t00-00-00z/</loc>
+    <loc>/event-copie/jeu-libre-2023-04-14t00-00-00z/</loc>
     <lastmod>2023-04-14T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-04-08/</loc>
+    <loc>/event-copie/jeu_libre_2023-04-08/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-2023-04-07t00-00-00z/</loc>
+    <loc>/event-copie/jeu-libre-2023-04-07t00-00-00z/</loc>
     <lastmod>2023-04-07T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -87,14 +87,14 @@
   </url>
   
   <url>
-    <loc>/event/jeu-libre-2023-03-31t00-00-00z/</loc>
+    <loc>/event-copie/jeu-libre-2023-03-31t00-00-00z/</loc>
     <lastmod>2023-03-31T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-03-26/</loc>
+    <loc>/event-copie/jeu_libre_2023-03-26/</loc>
     <lastmod>2023-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -122,21 +122,21 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-03-11/</loc>
+    <loc>/event-copie/jeu_libre_2023-03-11/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-2023-02-17t00-00-00z/</loc>
+    <loc>/event-copie/jeu-libre-2023-02-17t00-00-00z/</loc>
     <lastmod>2023-02-17T19:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-02-04/</loc>
+    <loc>/event-copie/jeu_libre_2023-02-04/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -178,21 +178,21 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2023-01-22/</loc>
+    <loc>/event-copie/jeu_libre_2023-01-22/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/tournoi-de-la-galette-2023/</loc>
+    <loc>/event-copie/tournoi-de-la-galette-2023/</loc>
     <lastmod>2023-01-14T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-12-11/</loc>
+    <loc>/event-copie/jeu_libre_2022-12-11/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>/event/skybad-14/</loc>
+    <loc>/event-copie/skybad-14/</loc>
     <lastmod>2022-11-26T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -241,7 +241,7 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-11-19/</loc>
+    <loc>/event-copie/jeu_libre_2022-11-19/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -262,7 +262,7 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-11-13/</loc>
+    <loc>/event-copie/jeu_libre_2022-11-13/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -304,35 +304,35 @@
   </url>
   
   <url>
-    <loc>/event/vedredi-4-novembre-jeu-libre/</loc>
+    <loc>/event-copie/vedredi-4-novembre-jeu-libre/</loc>
     <lastmod>2022-11-04T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/lundi-31-octobre-jeu-libre/</loc>
+    <loc>/event-copie/lundi-31-octobre-jeu-libre/</loc>
     <lastmod>2022-10-31T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/vendredi-28-octobre-jeu-libre/</loc>
+    <loc>/event-copie/vendredi-28-octobre-jeu-libre/</loc>
     <lastmod>2022-10-28T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/mercredi-26-octobre-jeu-libre/</loc>
+    <loc>/event-copie/mercredi-26-octobre-jeu-libre/</loc>
     <lastmod>2022-10-26T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/lundi-24-octobre-jeu-libre/</loc>
+    <loc>/event-copie/lundi-24-octobre-jeu-libre/</loc>
     <lastmod>2022-10-24T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -360,7 +360,7 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-10-15/</loc>
+    <loc>/event-copie/jeu_libre_2022-10-15/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -395,7 +395,7 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-10-02/</loc>
+    <loc>/event-copie/jeu_libre_2022-10-02/</loc>
     <lastmod>2022-10-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -423,7 +423,7 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-09-17/</loc>
+    <loc>/event-copie/jeu_libre_2022-09-17/</loc>
     <lastmod>2022-09-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -451,7 +451,7 @@
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2022-09-01/</loc>
+    <loc>/event-copie/jeu_libre_2022-09-01/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -465,28 +465,28 @@
   </url>
   
   <url>
-    <loc>/event/jeu-libre-31-08-2022/</loc>
+    <loc>/event-copie/jeu-libre-31-08-2022/</loc>
     <lastmod>2022-08-31T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-29-08-2022/</loc>
+    <loc>/event-copie/jeu-libre-29-08-2022/</loc>
     <lastmod>2022-08-29T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-25-08-2022/</loc>
+    <loc>/event-copie/jeu-libre-25-08-2022/</loc>
     <lastmod>2022-08-25T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-24-08-2022/</loc>
+    <loc>/event-copie/jeu-libre-24-08-2022/</loc>
     <lastmod>2022-08-24T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -521,21 +521,21 @@
   </url>
   
   <url>
-    <loc>/event/jeu-libre-19h-22h-1-juillet/</loc>
+    <loc>/event-copie/jeu-libre-19h-22h-1-juillet/</loc>
     <lastmod>2022-07-01T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-19h-22h-29-juin/</loc>
+    <loc>/event-copie/jeu-libre-19h-22h-29-juin/</loc>
     <lastmod>2022-06-29T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-19h-22h/</loc>
+    <loc>/event-copie/jeu-libre-19h-22h/</loc>
     <lastmod>2022-06-27T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -577,7 +577,7 @@
   </url>
   
   <url>
-    <loc>/event/assemblee-generale-2022/</loc>
+    <loc>/event-copie/assemblee-generale-2022/</loc>
     <lastmod>2022-06-16T18:15:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -598,7 +598,7 @@
   </url>
   
   <url>
-    <loc>/event/soiree-parents-enfants/</loc>
+    <loc>/event-copie/soiree-parents-enfants/</loc>
     <lastmod>2022-06-10T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -640,105 +640,105 @@
   </url>
   
   <url>
-    <loc>/event/20220506_creneau_vacances/</loc>
+    <loc>/event-copie/20220506_creneau_vacances/</loc>
     <lastmod>2022-05-06T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220504_creneau_vacances/</loc>
+    <loc>/event-copie/20220504_creneau_vacances/</loc>
     <lastmod>2022-05-04T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220502_creneau_vacances/</loc>
+    <loc>/event-copie/20220502_creneau_vacances/</loc>
     <lastmod>2022-05-02T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220429_creneau_vacances/</loc>
+    <loc>/event-copie/20220429_creneau_vacances/</loc>
     <lastmod>2022-04-29T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220429_stage_jeunes_c/</loc>
+    <loc>/event-copie/20220429_stage_jeunes_c/</loc>
     <lastmod>2022-04-29T15:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220429_stage_jeunes_l/</loc>
+    <loc>/event-copie/20220429_stage_jeunes_l/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220428_stage_jeunes_c/</loc>
+    <loc>/event-copie/20220428_stage_jeunes_c/</loc>
     <lastmod>2022-04-28T15:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220428_stage_jeunes_l/</loc>
+    <loc>/event-copie/20220428_stage_jeunes_l/</loc>
     <lastmod>2022-04-28T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220427_creneau_vacances/</loc>
+    <loc>/event-copie/20220427_creneau_vacances/</loc>
     <lastmod>2022-04-27T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220426_stage_jeunes_c/</loc>
+    <loc>/event-copie/20220426_stage_jeunes_c/</loc>
     <lastmod>2022-04-26T15:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220426_stage_jeunes_l/</loc>
+    <loc>/event-copie/20220426_stage_jeunes_l/</loc>
     <lastmod>2022-04-26T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220425_creneau_vacances/</loc>
+    <loc>/event-copie/20220425_creneau_vacances/</loc>
     <lastmod>2022-04-25T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220425_stage_jeunes_c/</loc>
+    <loc>/event-copie/20220425_stage_jeunes_c/</loc>
     <lastmod>2022-04-25T15:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220425_stage_jeunes_l/</loc>
+    <loc>/event-copie/20220425_stage_jeunes_l/</loc>
     <lastmod>2022-04-25T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/20220423_icr_phases_finales/</loc>
+    <loc>/event-copie/20220423_icr_phases_finales/</loc>
     <lastmod>2022-04-24T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -836,7 +836,7 @@
   </url>
   
   <url>
-    <loc>/event/regional_2022-03-19/</loc>
+    <loc>/event-copie/regional_2022-03-19/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -850,49 +850,49 @@
   </url>
   
   <url>
-    <loc>/event/riviere-19h-22h-tous-les-adultes-1/</loc>
+    <loc>/event-copie/riviere-19h-22h-tous-les-adultes-1/</loc>
     <lastmod>2022-03-04T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/riviere-19h-22h-c2-loisirs/</loc>
+    <loc>/event-copie/riviere-19h-22h-c2-loisirs/</loc>
     <lastmod>2022-03-03T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/riviere-19h-22h-c1/</loc>
+    <loc>/event-copie/riviere-19h-22h-c1/</loc>
     <lastmod>2022-02-28T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/riviere-19h-22h-tous-les-adultes/</loc>
+    <loc>/event-copie/riviere-19h-22h-tous-les-adultes/</loc>
     <lastmod>2022-02-25T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/marechal-19h-22h-tous-les-adultes-1/</loc>
+    <loc>/event-copie/marechal-19h-22h-tous-les-adultes-1/</loc>
     <lastmod>2022-02-24T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/marechal-19h-22h-tous-les-adultes/</loc>
+    <loc>/event-copie/marechal-19h-22h-tous-les-adultes/</loc>
     <lastmod>2022-02-23T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/marechal-19h-22h-tous/</loc>
+    <loc>/event-copie/marechal-19h-22h-tous/</loc>
     <lastmod>2022-02-21T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -941,7 +941,7 @@
   </url>
   
   <url>
-    <loc>/event/regional_2022-01-29/</loc>
+    <loc>/event-copie/regional_2022-01-29/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -969,7 +969,7 @@
   </url>
   
   <url>
-    <loc>/event/tournoi-de-la-galette/</loc>
+    <loc>/event-copie/tournoi-de-la-galette/</loc>
     <lastmod>2022-01-15T12:01:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -983,7 +983,7 @@
   </url>
   
   <url>
-    <loc>/event/regional_2022-01-08/</loc>
+    <loc>/event-copie/regional_2022-01-08/</loc>
     <lastmod>2022-01-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1018,7 +1018,7 @@
   </url>
   
   <url>
-    <loc>/event/regional_2021-12-11/</loc>
+    <loc>/event-copie/regional_2021-12-11/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1039,7 +1039,7 @@
   </url>
   
   <url>
-    <loc>/event/trophee-jeunes/</loc>
+    <loc>/event-copie/trophee-jeunes/</loc>
     <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1053,7 +1053,7 @@
   </url>
   
   <url>
-    <loc>/event/challenge-poussins/</loc>
+    <loc>/event-copie/challenge-poussins/</loc>
     <lastmod>2021-11-28T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1067,7 +1067,7 @@
   </url>
   
   <url>
-    <loc>/event/plateau-minibad/</loc>
+    <loc>/event-copie/plateau-minibad/</loc>
     <lastmod>2021-11-27T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1081,14 +1081,14 @@
   </url>
   
   <url>
-    <loc>/event/regional_2021-11-20/</loc>
+    <loc>/event-copie/regional_2021-11-20/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/icr-j1-equipe-2/</loc>
+    <loc>/event-copie/icr-j1-equipe-2/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1123,98 +1123,98 @@
   </url>
   
   <url>
-    <loc>/event/sky-bad-13/</loc>
+    <loc>/event-copie/sky-bad-13/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2021-11-04/</loc>
+    <loc>/event-copie/jeu_libre_2021-11-04/</loc>
     <lastmod>2021-11-04T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2021-11-03/</loc>
+    <loc>/event-copie/jeu_libre_2021-11-03/</loc>
     <lastmod>2021-11-03T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2021-10-29/</loc>
+    <loc>/event-copie/jeu_libre_2021-10-29/</loc>
     <lastmod>2021-10-29T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/stage-toussaint-1/</loc>
+    <loc>/event-copie/stage-toussaint-1/</loc>
     <lastmod>2021-10-29T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2021-10-28/</loc>
+    <loc>/event-copie/jeu_libre_2021-10-28/</loc>
     <lastmod>2021-10-28T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/stage-toussaint-3/</loc>
+    <loc>/event-copie/stage-toussaint-3/</loc>
     <lastmod>2021-10-28T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2021-10-27/</loc>
+    <loc>/event-copie/jeu_libre_2021-10-27/</loc>
     <lastmod>2021-10-27T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2021-10-26/</loc>
+    <loc>/event-copie/jeu_libre_2021-10-26/</loc>
     <lastmod>2021-10-26T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/stage-toussaint-2/</loc>
+    <loc>/event-copie/stage-toussaint-2/</loc>
     <lastmod>2021-10-26T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu_libre_2021-10-25/</loc>
+    <loc>/event-copie/jeu_libre_2021-10-25/</loc>
     <lastmod>2021-10-25T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/stage-toussaint/</loc>
+    <loc>/event-copie/stage-toussaint/</loc>
     <lastmod>2021-10-25T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/reunion-capitaines-interclubs-2/</loc>
+    <loc>/event-copie/reunion-capitaines-interclubs-2/</loc>
     <lastmod>2021-10-21T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/reunion-capitaines-interclubs/</loc>
+    <loc>/event-copie/reunion-capitaines-interclubs/</loc>
     <lastmod>2021-10-19T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1235,14 +1235,14 @@
   </url>
   
   <url>
-    <loc>/event/tournee-des-drapeaux-paris-2024/</loc>
+    <loc>/event-copie/tournee-des-drapeaux-paris-2024/</loc>
     <lastmod>2021-09-18T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/reunion-responsables-jeunes/</loc>
+    <loc>/event-copie/reunion-responsables-jeunes/</loc>
     <lastmod>2021-09-14T18:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1263,98 +1263,98 @@
   </url>
   
   <url>
-    <loc>/event/forum-des-associations-2/</loc>
+    <loc>/event-copie/forum-des-associations-2/</loc>
     <lastmod>2021-09-04T05:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-10/</loc>
+    <loc>/event-copie/jeu-libre-10/</loc>
     <lastmod>2021-09-02T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-9/</loc>
+    <loc>/event-copie/jeu-libre-9/</loc>
     <lastmod>2021-09-01T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-8/</loc>
+    <loc>/event-copie/jeu-libre-8/</loc>
     <lastmod>2021-08-31T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-7/</loc>
+    <loc>/event-copie/jeu-libre-7/</loc>
     <lastmod>2021-08-30T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-6/</loc>
+    <loc>/event-copie/jeu-libre-6/</loc>
     <lastmod>2021-08-27T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-5/</loc>
+    <loc>/event-copie/jeu-libre-5/</loc>
     <lastmod>2021-08-25T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-4/</loc>
+    <loc>/event-copie/jeu-libre-4/</loc>
     <lastmod>2021-08-24T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-3/</loc>
+    <loc>/event-copie/jeu-libre-3/</loc>
     <lastmod>2021-08-23T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-2/</loc>
+    <loc>/event-copie/jeu-libre-2/</loc>
     <lastmod>2021-08-20T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-1908/</loc>
+    <loc>/event-copie/jeu-libre-1908/</loc>
     <lastmod>2021-08-19T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-1808/</loc>
+    <loc>/event-copie/jeu-libre-1808/</loc>
     <lastmod>2021-08-18T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-1708/</loc>
+    <loc>/event-copie/jeu-libre-1708/</loc>
     <lastmod>2021-08-17T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre-1/</loc>
+    <loc>/event-copie/jeu-libre-1/</loc>
     <lastmod>2021-08-16T17:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1382,7 +1382,7 @@
   </url>
   
   <url>
-    <loc>/event/vacances/</loc>
+    <loc>/event-copie/vacances/</loc>
     <lastmod>2021-07-11T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1403,14 +1403,14 @@
   </url>
   
   <url>
-    <loc>/event/assemblee-generale/</loc>
+    <loc>/event-copie/assemblee-generale/</loc>
     <lastmod>2021-06-24T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/jeu-libre/</loc>
+    <loc>/event-copie/jeu-libre/</loc>
     <lastmod>2021-06-19T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1424,7 +1424,7 @@
   </url>
   
   <url>
-    <loc>/event/18h00-19h30-poussins-mini-bad/</loc>
+    <loc>/event-copie/18h00-19h30-poussins-mini-bad/</loc>
     <lastmod>2021-05-20T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1445,7 +1445,7 @@
   </url>
   
   <url>
-    <loc>/event/stage_jeune_2/</loc>
+    <loc>/event-copie/stage_jeune_2/</loc>
     <lastmod>2021-04-19T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1529,14 +1529,14 @@
   </url>
   
   <url>
-    <loc>/event/sky-bad-12/</loc>
+    <loc>/event-copie/sky-bad-12/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/stage_jeune_1/</loc>
+    <loc>/event-copie/stage_jeune_1/</loc>
     <lastmod>2020-10-19T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1592,7 +1592,7 @@
   </url>
   
   <url>
-    <loc>/event/aseemble_genrale/</loc>
+    <loc>/event-copie/aseemble_genrale/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1613,14 +1613,14 @@
   </url>
   
   <url>
-    <loc>/event/forum-des-associations-1/</loc>
+    <loc>/event-copie/forum-des-associations-1/</loc>
     <lastmod>2020-09-05T01:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/creneau-supplementaire-1/</loc>
+    <loc>/event-copie/creneau-supplementaire-1/</loc>
     <lastmod>2020-09-02T20:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1655,7 +1655,7 @@
   </url>
   
   <url>
-    <loc>/event/creneaux-exceptionnel-3/</loc>
+    <loc>/event-copie/creneaux-exceptionnel-3/</loc>
     <lastmod>2020-08-27T19:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1669,14 +1669,14 @@
   </url>
   
   <url>
-    <loc>/event/creneaux-exceptionnel-2/</loc>
+    <loc>/event-copie/creneaux-exceptionnel-2/</loc>
     <lastmod>2020-08-25T19:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/creneaux-exceptionnel-1/</loc>
+    <loc>/event-copie/creneaux-exceptionnel-1/</loc>
     <lastmod>2020-08-20T19:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
