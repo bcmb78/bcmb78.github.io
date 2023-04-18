@@ -2256,15 +2256,6 @@ Voir les consignes</description>
     </item>
     
     <item>
-      <title>Mesures Sanitaires</title>
-      <link>/covid/</link>
-      <pubDate>Tue, 01 Sep 2020 14:08:15 +0200</pubDate>
-      
-      <guid>/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Créneau supplémentaire</title>
       <link>/post/creneau-supplementaire/</link>
       <pubDate>Mon, 31 Aug 2020 14:32:28 +0000</pubDate>
@@ -2461,12 +2452,13 @@ En attendant passez de bonne fêtes.</description>
     </item>
     
     <item>
-      <title>Tournoi de Bar-le-Duc</title>
-      <link>/resultat/tournoi-de-bar-le-duc/</link>
-      <pubDate>Sun, 27 Oct 2019 23:00:00 +0000</pubDate>
+      <title></title>
+      <link>/club/bureau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resultat/tournoi-de-bar-le-duc/</guid>
-      <description></description>
+      <guid>/club/bureau/</guid>
+      <description>title: Le bureau membre:
+ nom: Loic fonction: Président image: &amp;ldquo;/img/bureau/loic.jpg&amp;rdquo; mail: president.bcmb@gmail.com nom: Cathy fonction: Secrétaire image: &amp;ldquo;/img/bureau/cathy.jpg&amp;rdquo; mail: bcmb.secretaire@gmail.com nom: Patrice fonction: Trésorier image: &amp;ldquo;/img/bureau/pat.jpg&amp;rdquo; nom: Christine fonction: Inscriptions/ Tournois image: &amp;ldquo;/img/bureau/christine.png&amp;rdquo; mail: bcmb.inscriptions@gmail.com nom: Céline fonction: Responsable Jeunes image: &amp;ldquo;/img/bureau/celine.jpg&amp;rdquo; mail: bcmb.jeunes@gmail.com nom: Alain fonction: Responsable Loisirs image: &amp;ldquo;/img/bureau/alain.jpg&amp;rdquo; mail: bcmb.loisir@gmail.com nom: Marta fonction: Responsable Volants image: &amp;ldquo;/img/bureau/marta.png&amp;rdquo; mail: bcmb.volants@gmail.com nom: Timothee fonction: Communication image: img/timselfie.jpg mail: bcmb.</description>
     </item>
     
     <item>
@@ -2476,6 +2468,131 @@ En attendant passez de bonne fêtes.</description>
       
       <guid>/club/horaires/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/club/lieux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/club/lieux/</guid>
+      <description> title: Lieux lieu:
+  nom: Gynmase Roger Rivière telephone: &amp;lsquo;0130431249&amp;rsquo; image: img/roger.jpg infos: 4 terrains adresse: Mail des Courlis top: 55 left: 45
+  nom: Gymnase Jean Maréchal adresse: 6 rue Victor Hugo infos: 7 terrains image: img/marechal.jpg telephone: &amp;lsquo;0130609282&amp;rsquo; top: 15 left: 45
+   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/club/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/club/presentation/</guid>
+      <description>title: Présentation image: &amp;ldquo;/img/about-shade-grown.jpg&amp;rdquo; text: &amp;ldquo;Le Badminton Club de Montigny le Bretonneux (BCMB) a été créé en 1983 et comptait alors 40 adhérents ainsi qu&amp;rsquo;une équipe en championnat interclubs. Au fil des ans les effectifs ont grimpé et atteignent désormais les 260 joueurs. Tous les pratiquants sont les bienvenus et les créneaux adaptés selon le profil des joueurs, jeunes, adultes loisirs ou compétiteurs.
+A force de progression dans le championnat interclub compte maintenant 8 équipes évoluant en interclubs en championnat Régional et championnat Départemental.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/covid/</guid>
+      <description>title: Mesures Sanitaires banner: img/mesures_sanitaires.jpg text: &amp;ldquo;\n&amp;rdquo; date: 2020-09-01T14:08:15.000+02:00 description: |-
+Afin de pouvoir continuer sereinement la pratique du badminton, les mesures suivantes sont appliquées :
+  Pass sanitaire obligatoire pour accéder aux installations sportives
+  Port du masques en dehors des matchs
+  Nota : Le club se réserve le droit d&amp;rsquo;exlure du gymnase tout joueur qui ne respecterait pas ces consignes. categorie: &#39;&amp;rsquo; image: &#39;&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-1/</guid>
+      <description>title: Equipe 1 saison: 20202021 image: img/image_67196161.JPG division: Régional 2 - Poule A iframe: https://icbad.ffbad.org/competition/2200505/tableau/3240 joueurs:
+ nom: Juliette GODART rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Virginy OULES-PILLOUD rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marie LEGER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marine LE COQ rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Mathieu LAMOLIE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Sylvain CORDIEZ rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Frederic BELLATO rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; is_captain: true nom: Nzambé VANHOUTTE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Maxime LE GUERN rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Juliette GODART ( Capitaine)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-2/</guid>
+      <description>title: Equipe 2 saison: 20202021 image: img/image2.png division: D1B iframe: https://icbad.ffbad.org/competition/2201888/tableau/3793 joueurs:
+ nom: Gurvan LECHANTOUX rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: Timothée DELAURIERE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Yohann CATHELAIN rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Vincent RIEHL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marta AZCARATE RODRIGUEZ rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marion THOUVIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Sophie BLIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Gurvan LECHANTOUX ( Capitaine)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-3/</guid>
+      <description>title: Equipe 3 saison: 20202021 image: img/image_50449409.JPG division: D1A iframe: https://icbad.ffbad.org/competition/2201888/tableau/3792 joueurs:
+ nom: Nicolas MARTEL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Guillaume GEYER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: Cédric AUBERT rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Nicolas PIQUET rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Harmony PERENNES rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Patricia JEANNEAU rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Eva DESCHAMPS rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Cédric AUBERT ( Capitaine)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-4/</guid>
+      <description>title: Equipe 4 saison: 20202021 image: img/image_50730241.JPG division: D2A iframe: https://icbad.ffbad.org/competition/2201891/tableau/3794 joueurs:
+ nom: Christophe DEHILOTTE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: François DUCHATEL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Stéphane LE COQ rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: David JEDAT rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Dalila CARON rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Stéphanie BOUILLET rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marie LOHIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Stephane LE COQ ( Capitaine)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-5/</guid>
+      <description>title: Equipe 5 saison: 20202021 image: img/2volants.png division: D3C iframe: https://icbad.ffbad.org/competition/2201892/tableau/3798 joueurs:
+ nom: Frédéric ZAUGG rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Thomas MARTIN rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Sébastien L&amp;rsquo;HOSTIS rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Anatole TABARIE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Camille LE GAL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: Emilie JENOUVRIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Emmanuelle BROUDER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Sébastien BUCZYNSKI</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-6/</guid>
+      <description>title: Equipe 6 saison: 20202021 image: img/badminton.jpeg division: D3C iframe: https://icbad.ffbad.org/competition/2101306/tableau/583 joueurs:
+ nom: Albert GARDOLL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Frederic ZAUGG rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Gaël PESCHET rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Pascal LENORMAND rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: Aurore MERESSE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Elodie LEFEVRE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Virginie CHAILLOT rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Rémi BOUTEMY</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-7/</guid>
+      <description> title: Equipe 7 saison: 20202021 image: img/whatsapp-image-2022-11-22-at-00-14-47.jpeg division: D4A iframe: https://icbad.ffbad.org/competition/2101306/tableau/581
+  Albert GARDOLL Corentin PAYA Patrice Van LOOY Yann COULOIGNER Colette VAUCHEL (Capitaine) Thi Thu Trang TRAN Pauline DUPUIS LESGUER  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/equipe/equipe-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipe/equipe-8/</guid>
+      <description>title: Equipe 8 saison: 20202021 image: img/group-young-sport-team-hands-together-team-partners-giving-f-group-young-sport-team-hands-together-team-partners-giving-fist-129604322.jpg division: D5C iframe: https://icbad.ffbad.org/competition/2201895/tableau/3805 joueurs:
+ nom: Laurent DUPUIS rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: Loïc LE GAL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Nicolas COGNET rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Bruno RIGNON rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Jean-Charles ROUSSEL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Laurent DUPUIS</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resultat/tournoi-de-bar-le-duc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resultat/tournoi-de-bar-le-duc/</guid>
+      <description> title: Tournoi de Bar-le-Duc image: img/74417319_2347356592151729_8988974574632697856_o.jpg type: tournoi date: 2019-10-27T23:00:00.000+00:00 description: Thomas finaliste en SH série 3 et vainqueur e DH série 2 categorie: Tournoi res_type: tournoi res:
+ photo: img/74417319_2347356592151729_8988974574632697856_o.jpg caption: Thomas, vainqueur en DH série 2. podium: vainqueur photo: img/barleduc.jpg caption: Thomas finaliste en simple serie 3 podium: finaliste   </description>
     </item>
     
     <item>
@@ -2515,45 +2632,12 @@ En attendant passez de bonne fêtes.</description>
     </item>
     
     <item>
-      <title>Equipe 1</title>
-      <link>/equipe/equipe-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-1/</guid>
-      <description>  Juliette GODART ( Capitaine)
-  Dorine ABRAHAMME
-  Sophie MAS
-  Virginy OULES PILLOUD
-  Frédéric BELLATO
-  Emmanuel DIJOUX
-  Mathieu LAMOLIE
-  Nzambé VANHOUTTE
-  </description>
-    </item>
-    
-    <item>
       <title>Equipe 2</title>
       <link>/equipe/2019_2020/equipe-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/equipe/2019_2020/equipe-2/</guid>
       <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 2</title>
-      <link>/equipe/equipe-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-2/</guid>
-      <description>  Gurvan LECHANTOUX ( Capitaine)
-  Sylvian CORDIEZ
-  Timothée DELAURIERE
-  Damien SOUDET
-  Marine LE COQ
-  Chloé LEGROS
-  Marion THOUVIER
-  </description>
     </item>
     
     <item>
@@ -2566,44 +2650,12 @@ En attendant passez de bonne fêtes.</description>
     </item>
     
     <item>
-      <title>Equipe 3</title>
-      <link>/equipe/equipe-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-3/</guid>
-      <description>  Cédric AUBERT ( Capitaine)
-  Maxence DUMAINE
-  Guillaume GEYER
-  Clément PIOCHE
-  Marta AZCARATE RODRIGUEZ
-  Cathy BOGNON
-  Dalila CARON
-  </description>
-    </item>
-    
-    <item>
       <title>Equipe 4</title>
       <link>/equipe/2019_2020/equipe-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/equipe/2019_2020/equipe-4/</guid>
       <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 4</title>
-      <link>/equipe/equipe-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-4/</guid>
-      <description>  Stephane LE COQ ( Capitaine)
-  Emeric LARDET
-  François DUCHATEL
-  Christophe DEHILLOTTE
-  Stéphanie BOUILLET
-  Virginie CHAILLOT
-  Céline PIERRE
-  </description>
     </item>
     
     <item>
@@ -2616,45 +2668,12 @@ En attendant passez de bonne fêtes.</description>
     </item>
     
     <item>
-      <title>Equipe 5</title>
-      <link>/equipe/equipe-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-5/</guid>
-      <description>  Sébastien BUCZYNSKI
-  Clément CHAUVEL
-  David JEDAT
-  Frédéric ZAUGG
-  Florence GURNOT (Capitaine)
-  Camille LE GAL
-  Elodie LEFEVRE
-  </description>
-    </item>
-    
-    <item>
       <title>Equipe 6</title>
       <link>/equipe/2019_2020/equipe-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/equipe/2019_2020/equipe-6/</guid>
       <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 6</title>
-      <link>/equipe/equipe-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-6/</guid>
-      <description>  Rémi BOUTEMY
-  Pascal LENORMAND
-  Gaël PESCHET
-  Guillaume SURMONT
-  Emmanuelle BROUDER
-  Angélique MEIGNAT (Capitaine)
-  Fleur REUTTER
-  Huong TAMBOSCO
-  </description>
     </item>
     
     <item>
@@ -2667,36 +2686,12 @@ En attendant passez de bonne fêtes.</description>
     </item>
     
     <item>
-      <title>Equipe 7</title>
-      <link>/equipe/equipe-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-7/</guid>
-      <description> Albert GARDOLL Corentin PAYA Patrice Van LOOY Yann COULOIGNER Colette VAUCHEL (Capitaine) Thi Thu Trang TRAN Pauline DUPUIS LESGUER  </description>
-    </item>
-    
-    <item>
       <title>Equipe 8</title>
       <link>/equipe/2019_2020/equipe-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/equipe/2019_2020/equipe-8/</guid>
       <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 8</title>
-      <link>/equipe/equipe-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-8/</guid>
-      <description>  Laurent DUPUIS
-  Vincent GERMAIN
-  Loïc LE GAL
-  Mayeul POTIGNON
-  Jéremy PRUDENT
-  Jean-Charles ROUSSEL
-  </description>
     </item>
     
     <item>
@@ -2727,30 +2722,12 @@ En attendant passez de bonne fêtes.</description>
     </item>
     
     <item>
-      <title>Le bureau</title>
-      <link>/club/bureau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/club/bureau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Leaders</title>
       <link>/defi/classement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/defi/classement/</guid>
       <description>   </description>
-    </item>
-    
-    <item>
-      <title>Lieux</title>
-      <link>/club/lieux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/club/lieux/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -2777,15 +2754,6 @@ En attendant passez de bonne fêtes.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Présentation</title>
-      <link>/club/presentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/club/presentation/</guid>
       <description></description>
     </item>
     

@@ -1648,13 +1648,6 @@
   </url>
   
   <url>
-    <loc>/covid/</loc>
-    <lastmod>2020-09-01T14:08:15+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/post/creneau-supplementaire/</loc>
     <lastmod>2020-08-31T14:32:28+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1823,14 +1816,97 @@
   </url>
   
   <url>
-    <loc>/resultat/tournoi-de-bar-le-duc/</loc>
-    <lastmod>2019-10-27T23:00:00+00:00</lastmod>
+    <loc>/club/bureau/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/club/horaires/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/club/lieux/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/club/presentation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/covid/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/documents_liens/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-7/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-8/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/inscription/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/resultat/tournoi-de-bar-le-duc/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1872,12 +1948,6 @@
   </url>
   
   <url>
-    <loc>/documents_liens/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/jeunes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1890,19 +1960,7 @@
   </url>
   
   <url>
-    <loc>/equipe/equipe-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/equipe/2019_2020/equipe-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/equipe-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1914,19 +1972,7 @@
   </url>
   
   <url>
-    <loc>/equipe/equipe-3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/equipe/2019_2020/equipe-4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/equipe-4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1938,19 +1984,7 @@
   </url>
   
   <url>
-    <loc>/equipe/equipe-5/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/equipe/2019_2020/equipe-6/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/equipe-6/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1962,19 +1996,7 @@
   </url>
   
   <url>
-    <loc>/equipe/equipe-7/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/equipe/2019_2020/equipe-8/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/equipe-8/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2010,18 +2032,6 @@
   </url>
   
   <url>
-    <loc>/inscription/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/club/bureau/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/club/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2029,12 +2039,6 @@
   
   <url>
     <loc>/defi/classement/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/club/lieux/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2053,12 +2057,6 @@
   
   <url>
     <loc>/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/club/presentation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
