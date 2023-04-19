@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Test_title</title>
-      <link>/event/test_event/</link>
-      <pubDate>Fri, 01 Sep 2023 22:00:00 +0000</pubDate>
-      
-      <guid>/event/test_event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jeu libre 2023-06-25T00:00:00Z</title>
       <link>/event-copie/jeu_libre_2023-06-25/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
