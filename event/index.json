@@ -2,6 +2,18 @@
     
     
     {
+        "title": " Test_name ",
+        "start": "2023-09-01T00:00:00",
+		"end": "2023-09-02T08:00:00",
+        "url": "/event/test_event/",
+		
+
+		"color":  "#cb4335"
+		
+    }
+    
+    , 
+    {
         "title": " Jeu libre 9h-12h Maréchal ",
         "start": "2023-06-25T00:00:00",
 		"end": "2023-06-25T08:00:00",
