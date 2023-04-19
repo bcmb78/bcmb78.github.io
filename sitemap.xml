@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>/event-copie/jeu-libre-2023-04-14t00-00-00z/</loc>
+    <loc>/event/jeu-libre-2023-04-14t00-00-00z/</loc>
     <lastmod>2023-04-14T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -122,7 +122,7 @@
   </url>
   
   <url>
-    <loc>/event-copie/jeu-libre-2023-04-07t00-00-00z/</loc>
+    <loc>/event/jeu-libre-2023-04-07t00-00-00z/</loc>
     <lastmod>2023-04-07T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -136,7 +136,7 @@
   </url>
   
   <url>
-    <loc>/event-copie/jeu-libre-2023-03-31t00-00-00z/</loc>
+    <loc>/event/jeu-libre-2023-03-31t00-00-00z/</loc>
     <lastmod>2023-03-31T18:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -192,7 +192,7 @@
   </url>
   
   <url>
-    <loc>/event-copie/jeu-libre-2023-02-17t00-00-00z/</loc>
+    <loc>/event/jeu-libre-2023-02-17t00-00-00z/</loc>
     <lastmod>2023-02-17T19:30:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -311,7 +311,7 @@
   </url>
   
   <url>
-    <loc>/event-copie/skybad-14/</loc>
+    <loc>/event/skybad-14/</loc>
     <lastmod>2022-11-26T07:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1214,7 +1214,7 @@
   </url>
   
   <url>
-    <loc>/event-copie/sky-bad-13/</loc>
+    <loc>/event/sky-bad-13/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1620,7 +1620,7 @@
   </url>
   
   <url>
-    <loc>/event-copie/sky-bad-12/</loc>
+    <loc>/event/sky-bad-12/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
