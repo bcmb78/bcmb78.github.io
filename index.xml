@@ -2615,16 +2615,6 @@ Afin de pouvoir continuer sereinement la pratique du badminton, les mesures suiv
     
     <item>
       <title></title>
-      <link>/equipe/equipe-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/equipe-2/</guid>
-      <description>title: Equipe 2 saison: 20202021 image: img/image2.png division: D1B iframe: https://icbad.ffbad.org/competition/2201888/tableau/3793 joueurs:
- nom: Gurvan LECHANTOUX rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: Timothée DELAURIERE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Yohann CATHELAIN rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Vincent RIEHL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marta AZCARATE RODRIGUEZ rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marion THOUVIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Sophie BLIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;     Gurvan LECHANTOUX ( Capitaine)</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/equipe/equipe-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2722,15 +2712,6 @@ Afin de pouvoir continuer sereinement la pratique du badminton, les mesures suiv
     
     <item>
       <title>Equipe 1</title>
-      <link>/equipe/2019_2020/equipe-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/2019_2020/equipe-1/</guid>
-      <description>L&amp;rsquo;Equipe 1 joue en Régional 3</description>
-    </item>
-    
-    <item>
-      <title>Equipe 1</title>
       <link>/equipe/equipe-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2741,65 +2722,12 @@ Afin de pouvoir continuer sereinement la pratique du badminton, les mesures suiv
     
     <item>
       <title>Equipe 2</title>
-      <link>/equipe/2019_2020/equipe-2/</link>
+      <link>/equipe/equipe-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/equipe/2019_2020/equipe-2/</guid>
-      <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 3</title>
-      <link>/equipe/2019_2020/equipe-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/2019_2020/equipe-3/</guid>
-      <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 4</title>
-      <link>/equipe/2019_2020/equipe-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/2019_2020/equipe-4/</guid>
-      <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 5</title>
-      <link>/equipe/2019_2020/equipe-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/2019_2020/equipe-5/</guid>
-      <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 6</title>
-      <link>/equipe/2019_2020/equipe-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/2019_2020/equipe-6/</guid>
-      <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 7</title>
-      <link>/equipe/2019_2020/equipe-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/2019_2020/equipe-7/</guid>
-      <description>Description possible</description>
-    </item>
-    
-    <item>
-      <title>Equipe 8</title>
-      <link>/equipe/2019_2020/equipe-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipe/2019_2020/equipe-8/</guid>
-      <description>Description possible</description>
+      <guid>/equipe/equipe-2/</guid>
+      <description> title: Equipe 2 saison: 20202021 image: img/image2.png division: D1B iframe: https://icbad.ffbad.org/competition/2201888/tableau/3793 joueurs:
+ nom: Gurvan LECHANTOUX rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; is_captain: true photo: &#39;&amp;rsquo; nom: Timothée DELAURIERE rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Yohann CATHELAIN rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Vincent RIEHL rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marta AZCARATE RODRIGUEZ rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Marion THOUVIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo; nom: Sophie BLIER rankD: &#39;&amp;rsquo; rankMx: &#39;&amp;rsquo; rankS: &#39;&amp;rsquo; photo: &#39;&amp;rsquo;    Gurvan LECHANTOUX ( Capitaine) Sylvian CORDIEZ Timothée DELAURIERE Damien SOUDET Marine LE COQ Chloé LEGROS Marion THOUVIER  </description>
     </item>
     
     <item>

@@ -1943,12 +1943,6 @@
   </url>
   
   <url>
-    <loc>/equipe/equipe-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/equipe/equipe-3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2039,55 +2033,13 @@
   </url>
   
   <url>
-    <loc>/equipe/2019_2020/equipe-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/equipe/equipe-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/equipe/2019_2020/equipe-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/2019_2020/equipe-3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/2019_2020/equipe-4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/2019_2020/equipe-5/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/2019_2020/equipe-6/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/2019_2020/equipe-7/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/equipe/2019_2020/equipe-8/</loc>
+    <loc>/equipe/equipe-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
