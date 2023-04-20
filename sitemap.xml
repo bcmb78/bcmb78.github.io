@@ -1943,12 +1943,6 @@
   </url>
   
   <url>
-    <loc>/equipe/equipe-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/equipe/equipe-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2046,6 +2040,12 @@
   
   <url>
     <loc>/equipe/2019_2020/equipe-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/equipe/equipe-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
