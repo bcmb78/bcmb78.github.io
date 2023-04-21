@@ -2588,18 +2588,6 @@ En attendant passez de bonne fêtes.</description>
     
     <item>
       <title></title>
-      <link>/club/lieux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/club/lieux/</guid>
-      <description> title: Lieux lieu:
-  nom: Gynmase Roger Rivière telephone: &amp;lsquo;0130431249&amp;rsquo; image: img/roger.jpg infos: 4 terrains adresse: Mail des Courlis top: 55 left: 45
-  nom: Gymnase Jean Maréchal adresse: 6 rue Victor Hugo infos: 7 terrains image: img/marechal.jpg telephone: &amp;lsquo;0130609282&amp;rsquo; top: 15 left: 45
-   </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/club/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2787,6 +2775,15 @@ Afin de pouvoir continuer sereinement la pratique du badminton, les mesures suiv
       
       <guid>/defi/classement/</guid>
       <description>   </description>
+    </item>
+    
+    <item>
+      <title>Lieux</title>
+      <link>/club/lieux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/club/lieux/</guid>
+      <description></description>
     </item>
     
     <item>
