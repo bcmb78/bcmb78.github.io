@@ -1945,12 +1945,6 @@
   </url>
   
   <url>
-    <loc>/inscription/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/resultat/tournoi-de-bar-le-duc/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2072,6 +2066,12 @@
   
   <url>
     <loc>/tags/index/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/inscription/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
