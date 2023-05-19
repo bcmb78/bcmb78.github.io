@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/newsletter/fetebcmb/</loc>
+    <lastmod>2023-05-18T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
