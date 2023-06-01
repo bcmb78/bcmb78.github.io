@@ -24,6 +24,13 @@
   </url>
   
   <url>
+    <loc>/resultat/resultats_du_week_end_13_14_mai/</loc>
+    <lastmod>2023-05-26T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/event-copie/jeu_libre_2023-05-21/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
