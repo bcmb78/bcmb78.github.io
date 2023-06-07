@@ -2,6 +2,20 @@
     
     
     {
+        "title": " Soirée Parents/Enfants ",
+        "start": "2023-06-15T00:00:00",
+		"end": "2023-06-15T08:00:00",
+        "url": "/event/soiree_parents_enfants/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#cb4335"
+		
+    }
+    
+    , 
+    {
         "title": " Interclub Vétéran 9 Juin ",
         "start": "2023-06-08T00:00:00",
 		"end": "2023-06-08T08:00:00",
