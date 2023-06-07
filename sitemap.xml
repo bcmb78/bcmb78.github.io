@@ -24,6 +24,20 @@
   </url>
   
   <url>
+    <loc>/event/ag_2023/</loc>
+    <lastmod>2023-06-07T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2023-06-07T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/resultats_du_week_end_13_14_mai/</loc>
     <lastmod>2023-05-26T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -40,13 +54,6 @@
   <url>
     <loc>/newsletter/fetebcmb/</loc>
     <lastmod>2023-05-18T22:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
