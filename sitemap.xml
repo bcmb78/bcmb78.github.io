@@ -2158,6 +2158,12 @@
   </url>
   
   <url>
+    <loc>/documents_liens/certificat-medical-ffbad/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/resultat/tournoi-jeunes-labelis%C3%A9-lifb/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
