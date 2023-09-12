@@ -2,6 +2,20 @@
     
     
     {
+        "title": " Jeu Libre - 14h-17h - Maréchal ",
+        "start": "2024-06-08T00:00:00",
+		"end": "2024-06-08T08:00:00",
+        "url": "/event/creneau_08_06_2024/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
         "title": " Jeu Libre - 9h-12h - Maréchal ",
         "start": "2024-05-26T00:00:00",
 		"end": "2024-05-26T08:00:00",
