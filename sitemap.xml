@@ -4,7 +4,14 @@
   
   <url>
     <loc>/event/</loc>
-    <lastmod>2024-01-13T23:00:00+00:00</lastmod>
+    <lastmod>2024-01-20T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/creneau_21_01_2023/</loc>
+    <lastmod>2024-01-20T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,6 +2,20 @@
     
     
     {
+        "title": " Jeu Libre - 9h-12h - Maréchal ",
+        "start": "2024-01-20T00:00:00",
+		"end": "2024-01-20T08:00:00",
+        "url": "/event/creneau_21_01_2023/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#000000" 
+		
+    }
+    
+    , 
+    {
         "title": " Tournoi de la Galette ",
         "start": "2024-01-13T00:00:00",
 		"end": "2024-01-13T08:00:00",
