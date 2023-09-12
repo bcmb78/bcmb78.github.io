@@ -2,16 +2,30 @@
     
     
     {
-        "title": " Jeu Libre - 14h-17h - Maréchal ",
-        "start": "2023-11-18T00:00:00",
-		"end": "2023-11-18T08:00:00",
-        "url": "/event/resultat_18_11_2023/",
+        "title": " Accueil J2 - Equipe 1 - R2 ",
+        "start": "2023-11-26T00:00:00",
+		"end": "2023-11-26T08:00:00",
+        "url": "/event/j2_r2_26_11_2023/",
 		
 		"allDay": "true",
 		
 
-		"color":  "#000000" 
+		"color":  "#2b1899"
+        
+    }
+    
+    , 
+    {
+        "title": " Jeu Libre - 14h-17h - Maréchal ",
+        "start": "2023-11-18T00:00:00",
+		"end": "2023-11-18T08:00:00",
+        "url": "/event/creneau_18_11_2023/",
 		
+		"allDay": "true",
+		
+
+		"color":  "#2b1899"
+        
     }
     
     , 
@@ -24,8 +38,8 @@
 		"allDay": "true",
 		
 
-		"color":  "#000000" 
-		
+		"color":  "#2b1899"
+        
     }
     
     , 
