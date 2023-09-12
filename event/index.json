@@ -2,6 +2,20 @@
     
     
     {
+        "title": " Jeu Libre - 14h-17h - Maréchal ",
+        "start": "2023-11-18T00:00:00",
+		"end": "2023-11-18T08:00:00",
+        "url": "/event/resultat_18_11_2023/",
+		
+		"allDay": "true",
+		
+
+		"color":  "#000000" 
+		
+    }
+    
+    , 
+    {
         "title": " Jeu Libre - 9h-12h - Maréchal ",
         "start": "2023-11-12T00:00:00",
 		"end": "2023-11-12T08:00:00",

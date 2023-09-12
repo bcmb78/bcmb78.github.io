@@ -4,7 +4,14 @@
   
   <url>
     <loc>/event/</loc>
-    <lastmod>2023-11-12T23:00:00+00:00</lastmod>
+    <lastmod>2023-11-18T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/resultat_18_11_2023/</loc>
+    <lastmod>2023-11-18T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
