@@ -4,7 +4,14 @@
   
   <url>
     <loc>/event/</loc>
-    <lastmod>2024-06-08T22:00:00+00:00</lastmod>
+    <lastmod>2024-06-14T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/soiree_parents_enfants_2024/</loc>
+    <lastmod>2024-06-14T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
