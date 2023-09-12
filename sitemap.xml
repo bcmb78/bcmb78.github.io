@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/event/creneau_19_septembre_2023/</loc>
+    <lastmod>2023-09-15T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2023-09-15T22:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2023-09-04T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -33,13 +47,6 @@
   <url>
     <loc>/event-copie/jeu_libre_2023-06-25/</loc>
     <lastmod>2023-06-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
-    <lastmod>2023-06-16T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
