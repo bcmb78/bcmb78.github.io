@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/event/j2_r2_26_11_2023/</loc>
-    <lastmod>2023-11-26T23:00:00+00:00</lastmod>
+    <loc>/event/</loc>
+    <lastmod>2023-12-10T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/event/</loc>
+    <loc>/event/creneau_10_12_2023/</loc>
+    <lastmod>2023-12-10T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/event/j2_r2_26_11_2023/</loc>
     <lastmod>2023-11-26T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
