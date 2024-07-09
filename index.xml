@@ -2813,16 +2813,6 @@ En attendant passez de bonne fêtes.</description>
     
     <item>
       <title></title>
-      <link>/club/bureau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/club/bureau/</guid>
-      <description>title: Le bureau membre:
- nom: Loic fonction: Président image: &amp;ldquo;/img/bureau/loic.jpg&amp;rdquo; mail: president.bcmb@gmail.com nom: Cathy fonction: Secrétaire image: &amp;ldquo;/img/bureau/cathy.jpg&amp;rdquo; mail: bcmb.secretaire@gmail.com nom: Patrice fonction: Trésorier image: &amp;ldquo;/img/bureau/pat.jpg&amp;rdquo; nom: Christine fonction: Inscriptions/ Tournois image: &amp;ldquo;/img/bureau/christine.png&amp;rdquo; mail: bcmb.inscriptions@gmail.com nom: Céline fonction: Responsable Jeunes image: &amp;ldquo;/img/bureau/celine.jpg&amp;rdquo; mail: bcmb.jeunes@gmail.com nom: Alain fonction: Responsable Loisirs image: &amp;ldquo;/img/bureau/alain.jpg&amp;rdquo; mail: bcmb.loisir@gmail.com nom: Marta fonction: Responsable Volants image: &amp;ldquo;/img/bureau/marta.png&amp;rdquo; mail: bcmb.volants@gmail.com nom: Timothee fonction: Communication image: img/timselfie.jpg mail: bcmb.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/club/horaires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3009,6 +2999,15 @@ Afin de pouvoir continuer sereinement la pratique du badminton, les mesures suiv
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/jeunes/groupes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le bureau</title>
+      <link>/club/bureau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/club/bureau/</guid>
       <description></description>
     </item>
     
