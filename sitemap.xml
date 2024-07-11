@@ -2114,6 +2114,12 @@
   </url>
   
   <url>
+    <loc>/documents_liens/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/inscription/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2163,12 +2169,6 @@
   
   <url>
     <loc>/defi/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/documents_liens/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
