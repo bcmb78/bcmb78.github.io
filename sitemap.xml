@@ -4,7 +4,14 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2024-11-07T23:00:00+00:00</lastmod>
+    <lastmod>2024-11-29T23:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2024-nov_j1-benjamins-2024/</loc>
+    <lastmod>2024-11-29T23:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
